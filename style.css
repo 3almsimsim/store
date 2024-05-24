@@ -1,0 +1,257 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Lato", sans-serif;
+  text-decoration: none;
+  list-style: none;
+}
+
+/* body {
+    box-shadow: 5px 5px 10px #d61156;
+} */
+
+h1 {
+  font-size: 3rem;
+  font-weight: 900;
+  /* font-family: "Baloo 2", sans-serif; */
+  color: #b4cb31;
+  /* text-transform: uppercase; */
+  text-shadow: 3px 3px 5px rgba(13, 81, 112, 0.6);
+}
+
+h2 {
+  font-size: 2rem;
+  color: #d61156;
+  text-transform: capitalize;
+}
+
+h4 {
+  font-size: 2rem;
+  font-family: "Baloo 2", sans-serif;
+  font-weight: 700;
+  color: #fdfbfb;
+  text-shadow: 3px 3px 5px rgba(13, 81, 112, 0.6);
+}
+
+h5 {
+  padding-top: 0.5rem;
+  font-size: 1rem;
+  font-weight: 900;
+  color:#1a7c8d;
+}
+
+/* ====================================================== */
+
+.logo {
+  width: 150px;
+}
+
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+  background-color: #fff;
+  padding: 1.2rem 7%;
+  box-shadow: 0px 5px 5px #d61156;
+  position: fixed;
+  width: 100%;
+  top: 0;
+  left: 0;
+}
+
+.navlist {
+  display: flex;
+  gap: 1.5rem;
+}
+
+.navlist li {
+  position: relative;
+}
+
+.navlist li a {
+  font-size: 1rem;
+  font-weight: 800;
+  color: #d61156;
+  text-transform: capitalize;
+  transition: 0.3s ease;
+}
+
+.navlist li a:hover,
+.navlist li a.active {
+  color: #26b9d1;
+ }
+
+.navlist li a.active::after,
+.navlist li a:hover::after {
+  position: absolute;
+  content: "";
+  width: 30%;
+  height: 2px;
+  background-color: #b4cb31;
+  bottom: -4px;
+  left: 01px;
+}
+
+/* =============Main=========================== */
+
+main {
+  margin-top: 4.8rem;
+}
+
+#hero {
+  /* padding-top: 2rem; */
+  background-image: url(./images/hero-bg5.jpg);
+  background-size: cover;
+  background-position: center;
+  box-shadow: 0px 5px 5px #d61156;
+  /* background-position: center; */
+  /* height: 100%; */
+}
+
+.heading {
+  /* margin-left: 10%; */
+  width: 50%;
+  padding-top: 2rem;
+  text-align: center;
+}
+
+.hero-p {
+  color: #fff;
+  font-size: 1.1rem;
+  width: 70%;
+  text-align: left;
+  margin: 0 auto;
+
+}
+
+.store-name {
+  color:#fff;
+  font-weight: 400;
+    font-size: 1.2rem;
+  /* font-family: "Baloo 2", sans-serif; */
+  text-decoration: underline;
+  /* text-shadow: 1px 1px rgb(4, 8, 245); */
+}
+
+/* #hero :nth-child(4) {
+  color: rgba(253, 251, 251, 0.5);
+  font-size: 1.2rem;
+  font-weight: 500;
+  font-family: "Baloo 2", sans-serif;
+} */
+
+
+
+.logo-arb {
+  width: 300px;
+  background-image: url(./images/logo-shadow1.png);
+  background-size: cover;
+  background-position: 2px 7px;
+}
+.buttons {
+  margin-top: 1rem;
+  padding-bottom: 2rem;
+}
+
+.shop,
+.reg {
+  /* background-color: #f2c98c; */
+  background-color: #edfb9b;
+  margin: 0 0.25rem 0 0.25rem;
+  padding: 0.25rem 1rem 0.25rem 1rem;
+  color: #d61156;
+  font-family: "Baloo 2", sans-serif;
+  font-size: 1.2rem;
+  font-weight: 600;
+  width: 150px;
+  border: 2px solid #d61156;
+  border-radius: 10px;
+  cursor: pointer;
+  box-shadow: 5px 5px 5px rgba(13, 81, 112, 0.6);
+}
+
+.shop:hover,
+.reg:hover {
+  color: #1a7c8d;
+  background-color: #edfb9b;
+  border: 2px solid #1a7c8d;
+  border-radius: 10px;
+  /* cursor: pointer; */
+}
+
+.shop:active,
+.reg:active {
+  transform: translate(5px, 5px);
+  box-shadow: 0 0 0;
+}
+
+/* ============================================ */
+
+.new-section {
+  padding: 2rem 7%;
+  text-align: center;
+}
+
+.week-prod {
+  width: 20%;
+    margin: 4rem 0;
+  
+  
+}
+
+.week-prod:hover, .featured-prod:hover {
+  box-shadow: 0 10px 25px rgba(13, 81, 112, 0.6)
+}
+
+.week-img {
+  width: 100%;
+  /* height: 200px; */
+  
+}
+
+.week-section-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+}
+
+.new-p-link {
+  display:inline-block;
+  color: #1a7c8d;
+  font-weight: 800;
+  margin: 1rem 0;
+  text-transform:capitalize;
+  
+
+  /* padding: 0.5rem 1rem;
+  background-color:#edfb9b;
+  border: 1px solid #1a7c8d;
+  border-radius: 10px; */
+}
+.new-p-link:hover {
+text-decoration: underline;
+}
+
+.featured-container {
+display: grid;
+margin: 4rem 0;
+grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+grid-template-rows: 1fr 1fr 1fr 1fr 1fr;
+width: 100%;
+gap: 1rem;
+}
+
+.featured-prod {
+  width: 20%,
+}
+
+.featured-img {
+  width: 100%;
+}
+
+.star i {
+  color: rgb(243, 181, 25);
+}
