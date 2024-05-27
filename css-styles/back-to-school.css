@@ -1,0 +1,115 @@
+@font-face {
+  font-family: "myfirstfont";
+  src: url("../fonts/ChalkboardByMartaVanEck-gvpp.ttf");
+}
+
+main {
+  margin-top: 8rem;
+}
+
+#hero {
+ 
+  
+
+  /* background-image: url(../images/back2school-bg3.jpg);
+  background-size:cover;
+background-repeat: no-repat;
+  background-position: center;
+  box-shadow: 0px 5px 5px #d61156;
+  position: relative; */
+}
+
+.banner {
+  text-align: center;
+  
+}
+
+.categories {
+  text-align: center;
+  margin: 2rem 7%;
+  display: grid;
+  /* grid-template-columns: 1fr 1fr 1fr 1fr 1fr; */
+  grid-template-columns: repeat(8, 1fr);
+  grid-template-rows: 1fr 1fr 1fr 1fr 1fr;
+  gap: 1rem;
+}
+
+.cat-1 img {
+  border-radius: 20px;
+  box-shadow: 0 3px #1cafaf;
+}
+.cat-2 img {
+  border-radius: 20px;
+  box-shadow: 0 3px #9b51df;
+}
+
+.cat-3 img {
+  border-radius: 20px;
+  box-shadow: 0 3px #feab3e;
+}
+.cat-4 img {
+  border-radius: 20px;
+  box-shadow: 0 3px #3aaaf4;
+}
+.cat-5 img {
+  border-radius: 20px;
+  box-shadow: 0 3px #5c5ef3;
+}
+.cat-6 img {
+  border-radius: 20px;
+  box-shadow: 0 3px #f8724a;
+}
+.cat-7 img {
+  border-radius: 20px;
+  box-shadow: 0 3px #f05785;
+}
+.cat-8 img {
+  border-radius: 20px;
+  box-shadow: 0 3px #c15adc;
+}
+.cat-9 img {
+  border-radius: 20px;
+  box-shadow: 0 3px #479d49;
+}
+.cat-10 img {
+  border-radius: 20px;
+  box-shadow: 0 3px #21c2e6;
+}
+.cat-11 img {
+  border-radius: 20px;
+  box-shadow: 0 3px #1ec19a;
+}
+.cat-12 img {
+  border-radius: 20px;
+  box-shadow: 0 3px #b2825b;
+}
+.cat-13 img {
+  border-radius: 20px;
+  box-shadow: 0 3px #b2b35f;
+}
+.cat-14 img {
+  border-radius: 20px;
+  box-shadow: 0 3px #ae51af;
+}
+.cat-15 img {
+  border-radius: 20px;
+  box-shadow: 0 3px #a5524c;
+}
+.cat-16 img {
+  border-radius: 20px;
+  box-shadow: 0 3px #b76c36;
+}
+
+.space-top {
+  padding-top: 1.5rem;
+}
+/* .hover {} */
+
+.cat-hover:hover {
+  box-shadow: 0 0 30px rgba(13, 81, 112, 1);
+  transform: translateY(-20px);
+  /* box-shadow: 0 0 30px rgba(30, 31, 31, 0.8); */
+}
+.test {
+  height: 300px;
+}
