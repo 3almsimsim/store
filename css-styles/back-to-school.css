@@ -1,0 +1,126 @@
+
+main {
+  margin-top: 7rem;
+}
+
+
+.banner {
+  text-align: center;
+  
+  
+}
+
+.categories {
+  text-align: center;
+  margin: 1rem 7%;
+  display: grid;
+  /* grid-template-columns: 1fr 1fr 1fr 1fr 1fr; */
+  grid-template-columns: repeat(8, 1fr);
+  grid-template-rows: 1fr 1fr 1fr 1fr 1fr;
+  gap: 1rem;
+}
+
+
+
+.cat img {
+  /* padding: 1rem; */
+  width: 70%;
+  border: 1px solid #d13b83;
+  border-radius: 50%;
+  box-shadow: 0 2px 1px #d61156;
+  background-color: #fff0c5;
+  /* background-image: url("../images/back-to-school/cat-bg.png"); */
+  /* background-position: center; */
+  /* background-size: cover; */
+  
+}
+
+
+/* .cat-2 img {
+  
+  width: 100%;
+  border: 1px solid #d61156;
+  border-radius: 50%;
+  box-shadow: 0 3px #8a1940;
+  background-color: #fff0c5;
+}
+
+.cat-3 img {
+  border-radius: 20px;
+  box-shadow: 0 3px #feab3e;
+}
+.cat-4 img {
+  border-radius: 20px;
+  box-shadow: 0 3px #3aaaf4;
+}
+.cat-5 img {
+  border-radius: 20px;
+  box-shadow: 0 3px #5c5ef3;
+}
+.cat-6 img {
+  border-radius: 20px;
+  box-shadow: 0 3px #f8724a;
+}
+.cat-7 img {
+  border-radius: 20px;
+  box-shadow: 0 3px #f05785;
+}
+.cat-8 img {
+  border-radius: 20px;
+  box-shadow: 0 3px #c15adc;
+}
+.cat-9 img {
+  border-radius: 20px;
+  box-shadow: 0 3px #479d49;
+}
+.cat-10 img {
+  border-radius: 20px;
+  box-shadow: 0 3px #21c2e6;
+}
+.cat-11 img {
+  border-radius: 20px;
+  box-shadow: 0 3px #1ec19a;
+}
+.cat-12 img {
+  border-radius: 20px;
+  box-shadow: 0 3px #b2825b;
+}
+.cat-13 img {
+  border-radius: 20px;
+  box-shadow: 0 3px #b2b35f;
+}
+.cat-14 img {
+  border-radius: 20px;
+  box-shadow: 0 3px #ae51af;
+}
+.cat-15 img {
+  border-radius: 20px;
+  box-shadow: 0 3px #a5524c;
+}
+.cat-16 img {
+  border-radius: 20px;
+  box-shadow: 0 3px #b76c36;
+} */
+
+.space-top {
+  padding-top: 0.5rem;
+  
+}
+/* .hover {} */
+
+.cat-title {
+  display: inline-block;
+  color: #0c5170;
+  font-size: 1.2rem;
+  font-weight: 700;
+  padding-top: 0.5rem;
+}
+
+.cat-hover:hover {
+  /* box-shadow: 0 6px 5px #8a1940; */
+  transform: translateY(-20px);
+  /* box-shadow: 0 0 30px rgba(30, 31, 31, 0.8); */
+}
+.test {
+  height: 300px;
+}
