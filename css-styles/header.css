@@ -15,17 +15,22 @@
     left: 0;
     z-index: 1000;
   }
+
+  nav {
+    display: flex;
+    /* gap: 1.5rem; */
+  }
   
-  .navlist {
+  #navlist {
     display: flex;
     gap: 1.5rem;
   }
   
-  .navlist li {
+  #navlist li {
     position: relative;
   }
   
-  .navlist li a {
+  #navlist li a, .mobile {
     font-size: 1rem;
     font-weight: 800;
     color: #d61156;
@@ -33,13 +38,13 @@
     transition: 0.3s ease;
   }
   
-  .navlist li a:hover,
-  .navlist li a.active {
+  #navlist li a:hover,
+  #navlist li a.active, .mobile:hover  {
     color: #26b9d1;
   }
   
-  .navlist li a.active::after,
-  .navlist li a:hover::after {
+  #navlist li a.active::after,
+  #navlist li a:hover::after {
     position: absolute;
     content: "";
     width: 30%;
@@ -47,4 +52,13 @@
     background-color: #b4cb31;
     bottom: -4px;
     left: 01px;
+  }
+
+  
+
+  .mobile {
+    display: none;
+    align-items: center;
+    font-size: 1.5rem;
+    cursor: pointer;
   }
