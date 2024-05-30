@@ -32,10 +32,9 @@ main {
 h1 {
   font-size: 3rem;
   font-weight: 900;
-
   color: #b4cb31;
-
   text-shadow: 3px 3px 5px rgba(13, 81, 112, 0.6);
+  text-align: left;
 }
 
 .hero-p {
