@@ -303,6 +303,10 @@ footer {
     width: 100px;
   }
 
+  .reg {
+    margin-top: 0.5rem;
+  }
+
   /* =========new section================ */
 
   .week-section-container {
