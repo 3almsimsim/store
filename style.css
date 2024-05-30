@@ -291,8 +291,8 @@ footer {
     background-position: 0px 3px;
   }
   .buttons {
-    margin-top: 1rem;
-    padding-bottom: 2rem;
+    margin-top: 0.5rem;
+    padding-bottom: 1rem;
   }
 
   .shop,
@@ -303,7 +303,7 @@ footer {
   }
 
   .reg {
-    margin-top: 0.5rem;
+    margin-top: 0.25rem;
   }
 
   /* =========new section================ */
