@@ -121,6 +121,14 @@ main {
   transform: translateY(-20px);
   /* box-shadow: 0 0 30px rgba(30, 31, 31, 0.8); */
 }
-.test {
-  height: 300px;
+
+/* ==============tablet============== */
+@media (max-width: 799px){
+
+  .categories {
+   
+    grid-template-columns: repeat(6, 1fr);
+   
+  }
+
 }
