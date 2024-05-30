@@ -290,18 +290,18 @@ footer {
     width: 120px;
     background-position: 0px 3px;
   }
-  .buttons {
+/*   .buttons {
     margin-top: 0.5rem;
     padding-bottom: 1rem;
-  }
+  } */
 
-  .shop,
+/*   .shop,
   .reg {
     font-size: 0.75rem;
     font-weight: 600;
     width: 100px;
   }
-
+ */
   .reg {
     margin-top: 0.25rem;
   }
