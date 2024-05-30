@@ -5,7 +5,7 @@ main {
 }
 
 #hero {
-  background-image: url(./images/hero-bg5.jpg);
+  background-image: url(./images/hero-bg.jpg);
   background-size: cover;
   background-position: center;
    box-shadow: 0px 5px 5px #d61156;
