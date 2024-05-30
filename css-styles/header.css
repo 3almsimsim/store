@@ -18,7 +18,7 @@
 
   nav {
     display: flex;
-    /* gap: 1.5rem; */
+    gap: 1.5rem;
   }
   
   #navlist {
@@ -30,7 +30,7 @@
     position: relative;
   }
   
-  #navlist li a, .mobile {
+  #navlist li a, .mobile, .mobile a {
     font-size: 1rem;
     font-weight: 800;
     color: #d61156;
@@ -58,7 +58,60 @@
 
   .mobile {
     display: none;
+    gap: 1.5rem;
     align-items: center;
     font-size: 1.5rem;
     cursor: pointer;
+    
   }
+
+ #close i {
+    color:#d61156;
+ }
+
+  #close {
+    position: absolute;
+    display: none;
+    top: 1rem;
+    right: 1.75rem;
+    font-size: 2rem;
+    
+  }
+
+
+  @media (max-width: 799px) {
+    #navlist {
+      display: flex;
+      flex-direction: column;
+      gap: 1.5rem;
+      position: fixed;
+      top: 0;
+      right: -18.75rem;
+      background-color: #fff;
+      box-shadow: 2px 2px 30px rgba(13, 81, 112, 0.6);
+      padding: 3rem 0 0 1rem;
+      width: 18.75rem;
+      height: 100vh;
+  }
+
+  .mobile {
+    display: flex;
+        
+  }
+
+  #navlist.active {
+    right: 0px;
+  }
+
+  #close {
+    display: block;
+    
+  }
+
+  #navlist #cart {
+    display:none;
+  }
+
+}
+
+ 
