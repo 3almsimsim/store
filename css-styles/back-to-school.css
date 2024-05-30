@@ -132,3 +132,18 @@ main {
   }
 
 }
+
+/* ==============mobile============== */
+@media (max-width: 377px){
+
+  .banner img{
+    width: 100%;
+    text-align: center;
+  }
+
+  .categories {
+    
+    grid-template-columns: repeat(3, 1fr);
+   gap: 0.5rem;
+  }
+
