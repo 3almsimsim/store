@@ -16,7 +16,9 @@
     overflow-x: hidden; 
 }
   
-   h2 {
+  
+  
+  h2 {
     font-size: 2rem;
     color: #d61156;
     text-transform: capitalize;
@@ -37,29 +39,6 @@
     color: #1a7c8d;
   }
 
-  /* ============ responsive ============== */
+ 
 
-  @media (max-width: 799px) {
-    #navlist {
-      display: flex;
-      flex-direction: column;
-      gap: 1.5rem;
-      position: fixed;
-      top: 0;
-      right: -18.75rem;
-      background-color: #fff;
-      box-shadow: 2px 2px 30px rgba(13, 81, 112, 0.6);
-      padding: 1rem 0 0 1rem;
-      width: 18.75rem;
-      height: 100vh;
-  }
-
-  .mobile {
-    display: flex;
-        
-  }
-
-  #navlist.active {
-    right: 0px;
-  }
-  }
+ 
