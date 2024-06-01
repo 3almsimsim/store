@@ -8,3 +8,74 @@ main {
     
     
   }
+
+  .categories {
+    text-align: center;
+    margin: 1rem 7%;
+    display: grid;
+    /* grid-template-columns: 1fr 1fr 1fr 1fr 1fr; */
+    grid-template-columns: repeat(8, 1fr);
+    /* grid-template-rows: 1fr 1fr 1fr 1fr 1fr; */
+    gap: 1rem;
+  }
+  
+  
+  
+  .cat img {
+    /* padding: 1rem; */
+    width: 70%;
+    border: 1px solid #d13b83;
+    border-radius: 50%;
+    box-shadow: 0 2px 1px #d61156;
+    background-color: #fff0c5;
+    /* background-image: url("../images/back-to-school/cat-bg.png"); */
+    /* background-position: center; */
+    /* background-size: cover; */
+    
+  }
+  
+  
+  .space-top {
+    padding-top: 0.5rem;
+    
+  }
+  /* .hover {} */
+  
+  .cat-title {
+    display: inline-block;
+    color: #0c5170;
+    font-size: 1.2rem;
+    font-weight: 700;
+    padding-top: 0.5rem;
+  }
+
+
+
+
+
+  /* ==============tablet============== */
+@media (max-width: 799px){
+
+    .categories {
+      margin-top: 0.5rem;
+      grid-template-columns: repeat(5, 1fr);
+     
+    }
+  
+  }
+  
+  /* ==============mobile============== */
+  @media (max-width: 377px){
+  
+    .banner img{
+      width: 100%;
+      text-align: center;
+    }
+  
+    .categories {
+      margin-top: 0.5rem;
+      grid-template-columns: repeat(3, 1fr);
+     gap: 0.5rem;
+    }
+  
+  }
