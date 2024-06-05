@@ -18,9 +18,9 @@ main {
      
   }
   
-  .banner img {
+  /* .banner img {
     margin: auto 0;
-  }
+  } */
   
   
   /* .banner {
@@ -47,10 +47,28 @@ main {
     border: 1px solid #26b9d1;
     border-radius: 16px;
     width: 100%;
+    text-align: center;
+  }
+
+  .pencil-box:hover {
+    box-shadow: 0 0 30px rgba(13, 81, 112, 0.8);
   }
   
   .pencil-img {
     width: 100%;
+    /* object-fit: contain; */
+  }
+
+  .new-p-link {
+    display: inline-block;
+    color: #1a7c8d;
+    font-weight: 800;
+    margin: 1rem 0;
+    text-transform: capitalize;
+  }
+  
+  .new-p-link:hover {
+    text-decoration: underline;
   }
   
   .star i {
@@ -83,9 +101,9 @@ main {
     
   }
 
-    .categories {
+  .pencil-box-container {
       margin-top: 0.5rem;
-      grid-template-columns: repeat(5, 1fr);
+      grid-template-columns: repeat(4, 1fr);
      
     }
   
@@ -95,13 +113,13 @@ main {
   @media (max-width: 377px){
   
     .banner img{
-      width: 100%;
+      width: 90%;
       text-align: center;
     }
   
-    .categories {
+    .pencil-box-container {
       margin-top: 0.5rem;
-      grid-template-columns: repeat(3, 1fr);
+      grid-template-columns: repeat(2, 1fr);
      gap: 0.5rem;
     }
   
