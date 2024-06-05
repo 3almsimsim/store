@@ -31,7 +31,7 @@ main {
 
   .pencil-box-container {
     display: grid;
-    margin: 2rem 0;
+    margin: 2rem 7%;
     grid-template-columns: repeat(5, 1fr);
     /* grid-template-rows: repeat(5, 1fr); */
     gap: 1rem;
