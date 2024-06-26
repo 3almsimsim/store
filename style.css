@@ -110,40 +110,42 @@ h1 {
 }
 
 .week-section-container {
+  width: 100%;
   display: grid;
   grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
   gap: 1rem;
   margin-top: 2rem;
 }
 
-.week-prod {
+/* .week-prod {
   padding: 1rem 0;
   width: 100%;
-  /* margin-top: 2rem; */
+  margin-top: 2rem;
   border: 1px solid #26b9d1;
   border-radius: 16px;
-}
+} */
 
 .week-img {
   width: 100%;
+  /* object-fit: contain; */
 }
 
-.week-prod:hover,
+/* .week-prod:hover,
 .featured-prod:hover {
   box-shadow: 0 0 30px rgba(13, 81, 112, 0.8);
-}
+} */
 
-.new-p-link {
+/* .new-p-link {
   display: inline-block;
   color: #1a7c8d;
   font-weight: 800;
   margin: 1rem 0;
   text-transform: capitalize;
-}
+} */
 
-.new-p-link:hover {
+/* .new-p-link:hover {
   text-decoration: underline;
-}
+} */
 
 .featured-container {
   display: grid;
@@ -168,16 +170,13 @@ h1 {
   color: rgb(243, 181, 25);
 }
 
-.price-cart {
+/* .price-cart {
   display: flex;
   align-items: center;
   justify-content: space-around;
-}
+} */
 
-.pro-cart {
-  color: #1a7c8d;
-  font-size: 1.2rem;
-}
+
 
 
 @media (max-width: 799px) {

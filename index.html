@@ -16,7 +16,7 @@
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
   <link href="https://fonts.googleapis.com/css2?family=Baloo+2:wght@400..800&display=swap" rel="stylesheet" />
   <title>3almsimsim</title>
-  
+
   <link rel="stylesheet" href="./css-styles/footer.css">
   <link rel="stylesheet" href="./style.css" />
   <link rel="stylesheet" href="./css-styles/header.css">
@@ -34,28 +34,52 @@
         <li><a href="./back-to-school/back-to-school.html">back to school</a></li>
         <li><a href="promotions">promotions</a></li>
         <li><a href="brands.html">brands</a></li>
-        <li><a id="cart" href="#"><i class="fa-solid fa-cart-arrow-down"></i></a></li>
-        <a  id="close" href="#"><i class="fa-solid fa-xmark"></i></a>
-        
+        <!-- <li><a class="cart-icon" href="#"><i class="fa-solid fa-cart-arrow-down"></i>
+            <span class="quantity">0</span>
+          </a></li> -->
+        <a id="close" class="close-icon" href="#"><i class="fa-solid fa-xmark"></i></a>
+
       </ul>
+      <i id="cart" class="fa-solid fa-cart-arrow-down shopping_cart">
+        <span class="quantity">0</span></i>
+
       <div class="mobile">
-        <a id="cart" href="#"><i class="fa-solid fa-cart-arrow-down"></i></a>
         <i id="mob" class="fa-solid fa-bars"></i>
       </div>
     </nav>
+    <!-- cart -->
+    <!-- start-card -->
+    
+      <div class="cart_main">
+        <a id="close_cart" href="#"><i class="fa-solid fa-xmark"></i></a>
+        <h5>your cart</h5>
+        <div class="cartContainer">
+
+        </div>
+        <div class="cart_footer">
+          <h5 class="totla_title">Total</h5>
+          <p class="total_price"><span class='price-symbol'>EGP</span>0</p>
+        </div>
+        <div>
+          <button class="clear-cart">Clear Cart</button>
+        </div>
+      </div>
+    
+    <!-- end cart -->
   </header>
   <main>
     <section id="hero">
 
-      
+
       <div class="heading">
-        
+
         <img src="./images/logo psd-RGB1.png" alt="" class="logo-arb" />
         <h1>Welcome to Our Store</h1>
         <!-- <h4>That Inspires and Motivates</h4>
           <p>Save more with coupons & up to 70% off</p> -->
         <p class="hero-p">
-          Thank you for visiting <a href="index.html"><span class="store-name"><strong>3almsimsim</strong></span></a>, our online
+          Thank you for visiting <a href="index.html"><span class="store-name"><strong>3almsimsim</strong></span></a>,
+          our online
           stationery store that
           carries the best pens, paper, and art supplies, Our mission is to spread the joy of creativity through the
           analog tools we've picked out just for you.
@@ -72,83 +96,9 @@
     <section class="new-section">
       <h2>New This Week</h2>
       <div class="week-section-container">
-        <div class="week-prod">
-          <a href=""><img src="./images/new-this-week/product-1.jpg" alt="" class="week-img"></a>
-          <a href="#" class="new-p-link">funny scratch paper</a>
-          <div class="star">
-            <i class="fas fa-star"></i>
-            <i class="fas fa-star"></i>
-            <i class="fas fa-star"></i>
-            <i class="fas fa-star"></i>
-            <i class="fas fa-star"></i>
-          </div>
-          <div class="price-cart">
-            <h5>25 L.E</h5>
-            <a href="#" class="pro-cart"><i class="fa-solid fa-cart-arrow-down"></i></a>
-          </div>
-        </div>
-        <div class="week-prod">
-          <a href=""><img src="./images/new-this-week/product-2.png" alt="" class="week-img"></a>
-          <a href="#" class="new-p-link">Aswan Modelling Clay Brown - 500 Gm </a>
-          <div class="star">
-            <i class="fas fa-star"></i>
-            <i class="fas fa-star"></i>
-            <i class="fas fa-star"></i>
-            <i class="fas fa-star"></i>
-            <i class="fas fa-star"></i>
-          </div>
-          <div class="price-cart">
-            <h5>25 L.E</h5>
-            <a href="#" class="pro-cart"><i class="fa-solid fa-cart-arrow-down"></i></a>
-          </div>
-        </div>
-        <div class="week-prod">
-          <a href=""><img src="./images/new-this-week/product-3.jpg" alt="" class="week-img"></a>
-          <a href="#" class="new-p-link">White Clay Non Toxic</a>
-          <div class="star">
-            <i class="fas fa-star"></i>
-            <i class="fas fa-star"></i>
-            <i class="fas fa-star"></i>
-            <i class="fas fa-star"></i>
-            <i class="fas fa-star"></i>
-          </div>
-          <div class="price-cart">
-            <h5>25 L.E</h5>
-            <a href="#" class="pro-cart"><i class="fa-solid fa-cart-arrow-down"></i></a>
-          </div>
-        </div>
-        <div class="week-prod">
-          <a href=""><img src="./images/new-this-week/product-4.jpg" alt="" class="week-img"></a>
-          <a href="#" class="new-p-link">Large Artistic Palette with 12 Water Color</a>
-          <div class="star">
-            <i class="fas fa-star"></i>
-            <i class="fas fa-star"></i>
-            <i class="fas fa-star"></i>
-            <i class="fas fa-star"></i>
-            <i class="fas fa-star"></i>
-          </div>
-          <div class="price-cart">
-            <h5>25 L.E</h5>
-            <a href="#" class="pro-cart"><i class="fa-solid fa-cart-arrow-down"></i></a>
-          </div>
-        </div>
-        <div class="week-prod">
-          <a href=""><img src="./images/new-this-week/product-5.jpg" alt="" class="week-img"></a>
-          <a href="#" class="new-p-link">Canson Sketch book, Size 35 * 25 cm, White Paper</a>
-          <div class="star">
-            <i class="fas fa-star"></i>
-            <i class="fas fa-star"></i>
-            <i class="fas fa-star"></i>
-            <i class="fas fa-star"></i>
-            <i class="fas fa-star"></i>
-          </div>
-          <div class="price-cart">
-            <h5>25 L.E</h5>
-            <a href="#" class="pro-cart"><i class="fa-solid fa-cart-arrow-down"></i></a>
-          </div>
-        </div>
+      </div>
     </section>
-    </div>
+
 
     <!-- ============================================ -->
 
@@ -294,7 +244,8 @@
           </div>
         </div>
         <div class="featured-prod">
-          <a href="#"><img src="./images/feature-products/thumbnails/deli-24colors-thumb.jpg" alt="" class="featured-img"></a>
+          <a href="#"><img src="./images/feature-products/thumbnails/deli-24colors-thumb.jpg" alt=""
+              class="featured-img"></a>
           <a href="#" class="new-p-link">Deli 12/24/36 Color Pencils</a>
           <div class="star">
             <i class="fas fa-star"></i>
@@ -540,8 +491,15 @@
     </section>
   </main>
 
-  <script src="./j-script/script.js"></script>
+
   <footer></footer>
+
+
+  <script src="./script1.js"></script>
+  <script src="./j-script/script.js"></script>
 </body>
 
 </html>
+
+
+
