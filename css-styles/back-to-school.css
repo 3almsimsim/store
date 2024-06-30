@@ -21,8 +21,17 @@ main {
   gap: 1rem;
 }
 
+.cat {
+  padding: 0.8rem 0;
+  border: 2px solid #26b9d1;
+  border-radius: 16px;
+  width: 100%;
+  text-align: center;
+}
 
-
+.cat:hover {
+  box-shadow: 0 0 30px rgba(13, 81, 112, 0.8);
+}
 
 
 

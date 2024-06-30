@@ -40,20 +40,22 @@ h5 {
 /* product pages shared this styles */
 
 .product-box-container {
+  
   display: grid;
-  margin: 2rem 7%;
+  margin-top: 2rem;
   grid-template-columns: repeat(5, 1fr);
     gap: 1rem;
+    align-items: center;
+    width:100%;
 }
 
 .product-box {
   padding: 0.8rem 0;
-  border: 1px solid #26b9d1;
+  border: 2px solid rgba(38, 185, 209, 0.7);
   border-radius: 16px;
   width: 100%;
   text-align: center;
-  
-}
+  }
 
 .product-box:hover {
   box-shadow: 0 0 30px rgba(13, 81, 112, 0.8);
