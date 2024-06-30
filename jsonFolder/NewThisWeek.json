@@ -1,0 +1,171 @@
+[
+    {
+        "id": "1",
+        "section": "new",
+        "name": "doms-X1",
+        "price": 65,
+        "desc": "pencil",
+        "img": "./images/new-this-week/product-1.jpg"
+    }
+    ,
+     {
+        "id": "2",
+        "section": "new",
+        "name": "doms-fusion",
+        "price": 65,
+        "desc": "pencil",
+        "img": "https://3almsimsim.github.io/store/images/new-this-week/product-2.png"
+    }
+    ,
+    {
+        "id": "3",
+        "section": "new",
+        "name": "doms-karbon",
+        "price": 65,
+        "desc": "pencil",
+        "img": "./images/new-this-week/product-3.jpg"
+    }
+    ,
+    {
+        "id": "4",
+        "section": "new",
+        "name": "doms-robust",
+        "price": 65,
+        "desc": "pencil",
+        "img": "./images/new-this-week/product-4.jpg"
+    }
+    ,
+    {
+        "id": "5",
+        "section": "new",
+        "name": "doms-robust",
+        "price": 65,
+        "desc": "pencil",
+        "img": "./images/new-this-week/product-5.jpg"
+    }
+    ,
+    {
+        "id": "6",
+        "section": "featured",
+        "name": "doms-X1",
+        "price": 65,
+        "desc": "pencil",
+        "img": "../images/feature-products/thumbnails/eraser.jpg"
+    }
+    ,
+     {
+        "id": "7",
+        "section": "featured",
+        "name": "doms-fusion",
+        "price": 65,
+        "desc": "pencil",
+        "img": "../images/feature-products/thumbnails/eraser-doms.jpg"
+    }
+    ,
+    {
+        "id": "8",
+        "name": "doms-karbon",
+        "price": 65,
+        "desc": "pencil",
+        "img": "../images/feature-products/thumbnails/eraser-doms1.jpg"
+    }
+    ,
+    {
+        "id": "9",
+        "name": "doms-robust",
+        "price": 65,
+        "desc": "pencil",
+        "img": "../images/feature-products/thumbnails/eraser-doms2.jpg"
+    }
+    ,
+    {
+        "id": "10",
+        "name": "doms-robust",
+        "price": 65,
+        "desc": "pencil",
+        "img": "../images/feature-products/thumbnails/faber-castel-erasser.jpg"
+    }
+    ,
+    {
+        "id": "11",
+        "name": "doms-robust",
+        "price": 65,
+        "desc": "pencil",
+        "img": "../images/feature-products/thumbnails/hongwei-pencil-colors.jpg"
+    }
+    ,
+    {
+        "id": "12",
+        "name": "doms-robust",
+        "price": 65,
+        "desc": "pencil",
+        "img": "../images/feature-products/thumbnails/doms-copy-12colors.jpg"
+    }
+    ,
+    {
+        "id": "13",
+        "name": "doms-robust",
+        "price": 65,
+        "desc": "pencil",
+        "img": "../images/feature-products/thumbnails/doms-24colorsv.jpg"
+    }
+    ,
+    {
+        "id": "14",
+        "name": "doms-robust",
+        "price": 65,
+        "desc": "pencil",
+        "img": "../images/feature-products/thumbnails/m&g-12colors.jpg"
+    }
+    ,
+    {
+        "id": "15",
+        "name": "doms-robust",
+        "price": 65,
+        "desc": "pencil",
+        "img": "./images/feature-products/thumbnails/deli-24colors.jpg"
+    }
+    ,
+    {
+        "id": "16",
+        "name": "doms-robust",
+        "price": 65,
+        "desc": "pencil",
+        "img": "./images/feature-products/thumbnails/doms-x1.jpg"
+    }
+    ,
+    {
+        "id": "17",
+        "name": "doms-robust",
+        "price": 65,
+        "desc": "pencil",
+        "img": "./images/feature-products/thumbnails/deli-neon.jpg"
+    }
+    ,
+    {
+        "id": "18",
+        "name": "doms-robust",
+        "price": 65,
+        "desc": "pencil",
+        "img": "./images/feature-products/thumbnails/deli-2B-pencils.jpg"
+    }
+    ,
+    {
+        "id": "19",
+        "name": "doms-robust",
+        "price": 65,
+        "desc": "pencil",
+        "img": "./images/feature-products/thumbnails/M&G-soccer-pencils.jpg"
+    }
+    ,
+    {
+        "id": "20",
+        "name": "doms-robust",
+        "price": 65,
+        "desc": "pencil",
+        "img": "./images/feature-products/thumbnails/deli-pop-pencils.jpg"
+    }
+
+
+
+]

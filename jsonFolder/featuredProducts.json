@@ -1,0 +1,124 @@
+[
+    {
+        "id": "1",
+        "name": "doms-X1",
+        "price": 65,
+        "desc": "pencil",
+        "img": "../images/feature-products/thumbnails/eraser.jpg"
+    }
+    ,
+     {
+        "id": "2",
+        "name": "doms-fusion",
+        "price": 65,
+        "desc": "pencil",
+        "img": "../images/feature-products/thumbnails/eraser-doms.jpg"
+    }
+    ,
+    {
+        "id": "3",
+        "name": "doms-karbon",
+        "price": 65,
+        "desc": "pencil",
+        "img": "../images/feature-products/thumbnails/eraser-doms1.jpg"
+    }
+    ,
+    {
+        "id": "4",
+        "name": "doms-robust",
+        "price": 65,
+        "desc": "pencil",
+        "img": "../images/feature-products/thumbnails/eraser-doms2.jpg"
+    }
+    ,
+    {
+        "id": "5",
+        "name": "doms-robust",
+        "price": 65,
+        "desc": "pencil",
+        "img": "../images/feature-products/thumbnails/faber-castel-erasser.jpg"
+    }
+    ,
+    {
+        "id": "6",
+        "name": "doms-robust",
+        "price": 65,
+        "desc": "pencil",
+        "img": "../images/feature-products/thumbnails/hongwei-pencil-colors.jpg"
+    }
+    ,
+    {
+        "id": "7",
+        "name": "doms-robust",
+        "price": 65,
+        "desc": "pencil",
+        "img": "../images/feature-products/thumbnails/doms-copy-12colors.jpg"
+    }
+    ,
+    {
+        "id": "8",
+        "name": "doms-robust",
+        "price": 65,
+        "desc": "pencil",
+        "img": "../images/feature-products/thumbnails/doms-24colorsv.jpg"
+    }
+    ,
+    {
+        "id": "9",
+        "name": "doms-robust",
+        "price": 65,
+        "desc": "pencil",
+        "img": "../images/feature-products/thumbnails/m&g-12colors.jpg"
+    }
+    ,
+    {
+        "id": "10",
+        "name": "doms-robust",
+        "price": 65,
+        "desc": "pencil",
+        "img": "./images/feature-products/thumbnails/deli-24colors.jpg"
+    }
+    ,
+    {
+        "id": "11",
+        "name": "doms-robust",
+        "price": 65,
+        "desc": "pencil",
+        "img": "./images/feature-products/thumbnails/doms-x1.jpg"
+    }
+    ,
+    {
+        "id": "12",
+        "name": "doms-robust",
+        "price": 65,
+        "desc": "pencil",
+        "img": "./images/feature-products/thumbnails/deli-neon.jpg"
+    }
+    ,
+    {
+        "id": "13",
+        "name": "doms-robust",
+        "price": 65,
+        "desc": "pencil",
+        "img": "./images/feature-products/thumbnails/deli-2B-pencils.jpg"
+    }
+    ,
+    {
+        "id": "14",
+        "name": "doms-robust",
+        "price": 65,
+        "desc": "pencil",
+        "img": "./images/feature-products/thumbnails/M&G-soccer-pencils.jpg"
+    }
+    ,
+    {
+        "id": "15",
+        "name": "doms-robust",
+        "price": 65,
+        "desc": "pencil",
+        "img": "./images/feature-products/thumbnails/deli-pop-pencils.jpg"
+    }
+
+
+]
+
