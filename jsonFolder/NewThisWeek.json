@@ -5,7 +5,7 @@
         "name": "doms-X1",
         "price": 65,
         "desc": "pencil",
-        "img": "../images/new-this-week/product-1.jpg"
+        "img": "./images/new-this-week/product-1.jpg"
     }
     ,
      {
