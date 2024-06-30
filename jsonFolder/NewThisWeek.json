@@ -50,7 +50,7 @@
         "name": "doms-X1",
         "price": 65,
         "desc": "pencil",
-        "img": "../images/feature-products/thumbnails/eraser.jpg"
+        "img": "./images/feature-products/thumbnails/eraser.jpg"
     }
     ,
      {
@@ -59,67 +59,75 @@
         "name": "doms-fusion",
         "price": 65,
         "desc": "pencil",
-        "img": "../images/feature-products/thumbnails/eraser-doms.jpg"
+        "img": "./images/feature-products/thumbnails/eraser-doms.jpg"
     }
     ,
     {
         "id": "8",
+        "section": "featured",
         "name": "doms-karbon",
         "price": 65,
         "desc": "pencil",
-        "img": "../images/feature-products/thumbnails/eraser-doms1.jpg"
+        "img": "./images/feature-products/thumbnails/eraser-doms1.jpg"
     }
     ,
     {
         "id": "9",
+        "section": "featured",
         "name": "doms-robust",
         "price": 65,
         "desc": "pencil",
-        "img": "../images/feature-products/thumbnails/eraser-doms2.jpg"
+        "img": "./images/feature-products/thumbnails/eraser-doms2.jpg"
     }
     ,
     {
         "id": "10",
+        "section": "featured",
         "name": "doms-robust",
         "price": 65,
         "desc": "pencil",
-        "img": "../images/feature-products/thumbnails/faber-castel-erasser.jpg"
+        "img": "./images/feature-products/thumbnails/faber-castel-erasser.jpg"
     }
     ,
     {
         "id": "11",
+        "section": "featured",
         "name": "doms-robust",
         "price": 65,
         "desc": "pencil",
-        "img": "../images/feature-products/thumbnails/hongwei-pencil-colors.jpg"
+        "img": "./images/feature-products/thumbnails/hongwei-pencil-colors.jpg"
     }
     ,
     {
         "id": "12",
+        "section": "featured",
         "name": "doms-robust",
         "price": 65,
         "desc": "pencil",
-        "img": "../images/feature-products/thumbnails/doms-copy-12colors.jpg"
+        "img": "./images/feature-products/thumbnails/doms-copy-12colors.jpg"
     }
     ,
     {
         "id": "13",
+        "section": "featured",
         "name": "doms-robust",
         "price": 65,
         "desc": "pencil",
-        "img": "../images/feature-products/thumbnails/doms-24colorsv.jpg"
+        "img": "./images/feature-products/thumbnails/doms-24colorsv.jpg"
     }
     ,
     {
         "id": "14",
+        "section": "featured",
         "name": "doms-robust",
         "price": 65,
         "desc": "pencil",
-        "img": "../images/feature-products/thumbnails/m&g-12colors.jpg"
+        "img": "./images/feature-products/thumbnails/m&g-12colors.jpg"
     }
     ,
     {
         "id": "15",
+        "section": "featured",
         "name": "doms-robust",
         "price": 65,
         "desc": "pencil",
@@ -128,6 +136,7 @@
     ,
     {
         "id": "16",
+        "section": "featured",
         "name": "doms-robust",
         "price": 65,
         "desc": "pencil",
@@ -136,6 +145,7 @@
     ,
     {
         "id": "17",
+        "section": "featured",
         "name": "doms-robust",
         "price": 65,
         "desc": "pencil",
@@ -144,6 +154,7 @@
     ,
     {
         "id": "18",
+        "section": "featured",
         "name": "doms-robust",
         "price": 65,
         "desc": "pencil",
@@ -152,6 +163,7 @@
     ,
     {
         "id": "19",
+        "section": "featured",
         "name": "doms-robust",
         "price": 65,
         "desc": "pencil",
@@ -160,6 +172,7 @@
     ,
     {
         "id": "20",
+        "section": "featured",
         "name": "doms-robust",
         "price": 65,
         "desc": "pencil",
