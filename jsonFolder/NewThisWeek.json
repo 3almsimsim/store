@@ -5,7 +5,7 @@
         "name": "doms-X1",
         "price": 65,
         "desc": "pencil",
-        "img": "./images/new-this-week/product-1.jpg"
+        "img": "./images/new-this-week/thumbnails/product-1.jpg"
     }
     ,
      {
@@ -14,7 +14,7 @@
         "name": "doms-fusion",
         "price": 65,
         "desc": "pencil",
-        "img": "./images/new-this-week/product-1.jpg"
+        "img": "./images/new-this-week/thumbnails/product-2.jpg"
     }
     ,
     {
@@ -23,7 +23,7 @@
         "name": "doms-karbon",
         "price": 65,
         "desc": "pencil",
-        "img": "./images/new-this-week/product-3.jpg"
+        "img": "./images/new-this-week/thumbnails/product-3.jpg"
     }
     ,
     {
@@ -32,7 +32,7 @@
         "name": "doms-robust",
         "price": 65,
         "desc": "pencil",
-        "img": "./images/new-this-week/product-4.jpg"
+        "img": "./images/new-this-week/thumbnails/product-4.jpg"
     }
     ,
     {
