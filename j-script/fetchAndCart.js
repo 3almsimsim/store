@@ -23,7 +23,7 @@ let buttonsDOM = [];
 class Products {
   async getProducts() {
     try {
-      let result = await fetch(".././jsonFolder/NewThisWeek.json");
+      let result = await fetch("../jsonFolder/NewThisWeek.json");
       let data = await result.json();
       let products = data;
 
