@@ -4,7 +4,7 @@
   "section": "new",
   "name": "SCRATCH PAPER",
   "desc": "Creative Fun For Notes, Letters, Invitations & Greetings",
-  "price": "15\/25\/30",
+  "price": 15,
   "img": "https:\/\/3almsimsim.github.io\/store\/images\/new-this-week\/thumbnails\/product-1.jpg"
  },
  {
@@ -28,7 +28,7 @@
   "section": "new",
   "name": "Water Color",
   "desc": "Artist Palette",
-  "price": "20\/35",
+  "price": 20,
   "img": "https:\/\/3almsimsim.github.io\/store\/images\/new-this-week\/thumbnails\/product-4.jpg"
  },
  {
@@ -116,7 +116,7 @@
   "section": "featured",
   "name": "Deli Color Pencils",
   "desc": "Deli 12\\24\\36 Color Pencils",
-  "price": "50\\100\\150",
+  "price": 50,
   "img": "https:\/\/3almsimsim.github.io\/store\/images\/feature-products\/thumbnails\/deli-24colors.jpg"
  },
  {
