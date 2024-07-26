@@ -1,0 +1,67 @@
+[
+    {
+        "id": "1701",
+        "section": "secondary_three",
+        "name": "الإمتحان فيزيا شرح للصف الثالث الثانوى 2025",
+        "desc": "الإمتحان فيزيا شرح للصف الثالث الثانوى 2025",
+        "price": 165,
+        "img": "./books_images/secondary_three/3sec_phisicsExplain.jpg"
+    },
+    {
+        "id": "1702",
+        "section": "secondary_three",
+        "name": "الإمتحان جغرافيا شرح للصف الثالث الثانوى 2025",
+        "desc": "الإمتحان جغرافيا شرح للصف الثالث الثانوى 2025",
+        "price": 165,
+        "img": "./books_images/secondary_three/3sec_geographyExplain.jpg"
+    },
+    {
+        "id": "1703",
+        "section": "secondary_three",
+        "name": "الإمتحان أحياء شرح للصف الثالث الثانوى 2025",
+        "desc": "الإمتحان أحياء شرح للصف الثالث الثانوى 2025",
+        "price": 150,
+        "img": "./books_images/secondary_three/3sec_biologyExplain.jpg"
+    },
+    {
+        "id": "1704",
+        "section": "secondary_three",
+        "name": "الإمتحان أحياء كتاب الأسئلة والمسائل للصف الثالث الثانوى 2025",
+        "desc": "الإمتحان أحياء كتاب الأسئلة والمسائل للصف الثالث الثانوى 2025",
+        "price": 150,
+        "img": "./books_images/secondary_three/3sec_biologyQ.jpg"
+    },
+    {
+        "id": "1705",
+        "section": "secondary_three",
+        "name": "الإمتحان فيزيا كتاب الأسئلة والمسائل للصف الثالث الثانوى 2025",
+        "desc": "الإمتحان فيزيا كتاب الأسئلة والمسائل للصف الثالث الثانوى 2025",
+        "price": 165,
+        "img": "./books_images/secondary_three/3sec_phisicsQ.jpg"
+    },
+    {
+        "id": "1706",
+        "section": "secondary_three",
+        "name": "الإمتحان جيولوجيا للصف الثالث الثانوى 2025",
+        "desc": "الإمتحان جيولوجيا للصف الثالث الثانوى 2025",
+        "price": 240,
+        "img": "./books_images/secondary_three/3sec_giology.jpg"
+    },
+    {
+        "id": "1707",
+        "section": "secondary_three",
+        "name": "الإمتحان كيميا للصف الثالث الثانوى 2025",
+        "desc": "الإمتحان كيميا للصف الثالث الثانوى 2025",
+        "price": 230,
+        "img": "./books_images/secondary_three/3sec_chemistry.jpg"
+    }
+    ,
+    {
+        "id": "1708",
+        "section": "secondary_three",
+        "name": "الإمتحان عربى للصف الثالث الثانوى 2025",
+        "desc": "الإمتحان عربى للصف الثالث الثانوى 2025",
+        "price": 230,
+        "img": "./books_images/secondary_three/3sec_Arabic.jpg"
+    }
+]

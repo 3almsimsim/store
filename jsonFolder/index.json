@@ -1,0 +1,162 @@
+[
+    {
+     "id": "1",
+     "section": "new",
+     "name": "SCRATCH PAPER",
+     "desc": "Creative Fun For Notes, Letters  & Greetings",
+     "price": 15,
+     "img": "https:\/\/3almsimsim.github.io\/store\/images\/new-this-week\/thumbnails\/product-1.jpg"
+    },
+    {
+     "id": "2",
+     "section": "new",
+     "name": "Semex",
+     "desc": "aswan modelling clay brown - 500 gm",
+     "price": 15,
+     "img": "https:\/\/3almsimsim.github.io\/store\/images\/new-this-week\/thumbnails\/product-2.jpg"
+    },
+    {
+     "id": "3",
+     "section": "new",
+     "name": "Semex",
+     "desc": "aswan modelling clay brown - 500 gm",
+     "price": 16,
+     "img": "https:\/\/3almsimsim.github.io\/store\/images\/new-this-week\/thumbnails\/product-3.jpg"
+    },
+    {
+     "id": "4",
+     "section": "new",
+     "name": "Water Color",
+     "desc": "Artist Palette 12 Colors With Brush",
+     "price": 20,
+     "img": "https:\/\/3almsimsim.github.io\/store\/images\/new-this-week\/thumbnails\/product-4.jpg"
+    },
+    {
+     "id": "5",
+     "section": "new",
+     "name": "Canson",
+     "desc": "Drawing Sketch Book 25 * 35cm 12 Sheets",
+     "price": 75,
+     "img": "https:\/\/3almsimsim.github.io\/store\/images\/new-this-week\/thumbnails\/product-5.jpg"
+    },
+    {
+     "id": "21",
+     "section": "featured",
+     "name": "Eraser",
+     "desc": "Eraser 5Pcs Mini Ball Shape For Clean Erasing",
+     "price": 25,
+     "img": "https:\/\/3almsimsim.github.io\/store\/images\/feature-products\/thumbnails\/eraser.jpg"
+    },
+    {
+     "id": "22",
+     "section": "featured",
+     "name": "Doms Eraser",
+     "desc": "DOMS M-Tech Eraser With Keep Safe Cover",
+     "price": 20,
+     "img": "https:\/\/3almsimsim.github.io\/store\/images\/feature-products\/thumbnails\/eraser-doms.jpg"
+    },
+    {
+     "id": "23",
+     "section": "featured",
+     "name": "Doms Eraser",
+     "desc": "Doms Neon Hexagonal Eraser",
+     "price": 10,
+     "img": "https:\/\/3almsimsim.github.io\/store\/images\/feature-products\/thumbnails\/eraser-doms1.jpg"
+    },
+    {
+     "id": "24",
+     "section": "featured",
+     "name": "Doms Eraser",
+     "desc": "Doms Dust Free Eraser For Clean Erasing",
+     "price": 4,
+     "img": "https:\/\/3almsimsim.github.io\/store\/images\/feature-products\/thumbnails\/eraser-doms2.jpg"
+    },
+    {
+     "id": "25",
+     "section": "featured",
+     "name": "Faber Castell eraser",
+     "desc": "Faber Castell Dust Free eraser",
+     "price": 10,
+     "img": "https:\/\/3almsimsim.github.io\/store\/images\/feature-products\/thumbnails\/faber-castel-erasser.jpg"
+    },
+    {
+     "id": "26",
+     "section": "featured",
+     "name": "Hongwei Color Pencil",
+     "desc": "Hongwei Art color pencil set",
+     "price": 75,
+     "img": "https:\/\/3almsimsim.github.io\/store\/images\/feature-products\/thumbnails\/hongwei-pencil-colors.jpg"
+    },
+    {
+     "id": "27",
+     "section": "featured",
+     "name": "Doms Color Pencils",
+     "desc": "Doms Color Pencils HQ",
+     "price": 50,
+     "img": "https:\/\/3almsimsim.github.io\/store\/images\/feature-products\/thumbnails\/doms-copy-12colors.jpg"
+    },
+    {
+     "id": "28",
+     "section": "featured",
+     "name": "Doms Color Pencils",
+     "desc": "Doms 24 Color Pencils Set",
+     "price": 150,
+     "img": "https:\/\/3almsimsim.github.io\/store\/images\/feature-products\/thumbnails\/doms-24colorsv.jpg"
+    },
+    {
+     "id": "29",
+     "section": "featured",
+     "name": "M&G Color Pencil",
+     "desc": "M&G Color Pencil 12 Colors",
+     "price": 50,
+     "img": "https:\/\/3almsimsim.github.io\/store\/images\/feature-products\/thumbnails\/m&g-12colors.jpg"
+    },
+    {
+     "id": "30",
+     "section": "featured",
+     "name": "Deli Color Pencils",
+     "desc": "Deli 12\\24\\36 Color Pencils",
+     "price": 50,
+     "img": "https:\/\/3almsimsim.github.io\/store\/images\/feature-products\/thumbnails\/deli-24colors.jpg"
+    },
+    {
+     "id": "31",
+     "section": "featured",
+     "name": "Doms-X1 Pencil",
+     "desc": "Doms X1 Pack - 10 Pencils - 1 Eraser + 1 Sharpner + 1 Protection Cap",
+     "price": 95,
+     "img": "https:\/\/3almsimsim.github.io\/store\/images\/feature-products\/thumbnails\/doms-x1.jpg"
+    },
+    {
+     "id": "32",
+     "section": "featured",
+     "name": "Deli u516 neon",
+     "desc": "Deli u516 neon hb graphite pencil pack of 12 pencils - multi color",
+     "price": 65,
+     "img": "https:\/\/3almsimsim.github.io\/store\/images\/feature-products\/thumbnails\/deli-neon.jpg"
+    },
+    {
+     "id": "33",
+     "section": "featured",
+     "name": "Deli Pencil NO:58130",
+     "desc": "Deli Pencils 2B Special Wooden Lead Pencil Safe Non-toxic",
+     "price": 65,
+     "img": "https:\/\/3almsimsim.github.io\/store\/images\/feature-products\/thumbnails\/deli-2B-pencils.jpg"
+    },
+    {
+     "id": "34",
+     "section": "featured",
+     "name": " M&G Pencil No:30710",
+     "desc": "M&G Pack Of 12 Graphite Pencil M&G Triangular Hb - No:30710",
+     "price": 65,
+     "img": "https:\/\/3almsimsim.github.io\/store\/images\/feature-products\/thumbnails\/M&G-soccer-pencils.jpg"
+    },
+    {
+     "id": "35",
+     "section": "featured",
+     "name": "Deli u 526 pop Pencil",
+     "desc": "Deli u 526 pop graphite Safe Non-toxic 2b pencil set - 12 pieces",
+     "price": 85,
+     "img": "https:\/\/3almsimsim.github.io\/store\/images\/feature-products\/thumbnails\/deli-pop-pencils.jpg"
+    }
+   ]
