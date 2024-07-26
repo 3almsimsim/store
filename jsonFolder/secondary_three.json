@@ -5,7 +5,7 @@
         "name": "الإمتحان فيزيا شرح للصف الثالث الثانوى 2025",
         "desc": "الإمتحان فيزيا شرح للصف الثالث الثانوى 2025",
         "price": 165,
-        "img": "./books_images/secondary_three/3sec_phisicsExplain.jpg"
+        "img": "https://raw.githubusercontent.com/3almsimsim/store/main/books/books_images/secondary_three/3sec_phisicsExplain.jpg"
     },
     {
         "id": "1702",
@@ -13,7 +13,7 @@
         "name": "الإمتحان جغرافيا شرح للصف الثالث الثانوى 2025",
         "desc": "الإمتحان جغرافيا شرح للصف الثالث الثانوى 2025",
         "price": 165,
-        "img": "./books_images/secondary_three/3sec_geographyExplain.jpg"
+        "img": "https://raw.githubusercontent.com/3almsimsim/store/main/books/books_images/secondary_three/3sec_geographyExplain.jpg"
     },
     {
         "id": "1703",
@@ -21,7 +21,7 @@
         "name": "الإمتحان أحياء شرح للصف الثالث الثانوى 2025",
         "desc": "الإمتحان أحياء شرح للصف الثالث الثانوى 2025",
         "price": 150,
-        "img": "./books_images/secondary_three/3sec_biologyExplain.jpg"
+        "img": "https://raw.githubusercontent.com/3almsimsim/store/main/books/books_images/secondary_three/3sec_biologyExplain.jpg"
     },
     {
         "id": "1704",
@@ -29,7 +29,7 @@
         "name": "الإمتحان أحياء كتاب الأسئلة والمسائل للصف الثالث الثانوى 2025",
         "desc": "الإمتحان أحياء كتاب الأسئلة والمسائل للصف الثالث الثانوى 2025",
         "price": 150,
-        "img": "./books_images/secondary_three/3sec_biologyQ.jpg"
+        "img": "https://raw.githubusercontent.com/3almsimsim/store/main/books/books_images/secondary_three/3sec_biologyQ.jpg"
     },
     {
         "id": "1705",
@@ -37,7 +37,7 @@
         "name": "الإمتحان فيزيا كتاب الأسئلة والمسائل للصف الثالث الثانوى 2025",
         "desc": "الإمتحان فيزيا كتاب الأسئلة والمسائل للصف الثالث الثانوى 2025",
         "price": 165,
-        "img": "./books_images/secondary_three/3sec_phisicsQ.jpg"
+        "img": "https://raw.githubusercontent.com/3almsimsim/store/main/books/books_images/secondary_three/3sec_phisicsQ.jpg"
     },
     {
         "id": "1706",
@@ -45,7 +45,7 @@
         "name": "الإمتحان جيولوجيا للصف الثالث الثانوى 2025",
         "desc": "الإمتحان جيولوجيا للصف الثالث الثانوى 2025",
         "price": 240,
-        "img": "./books_images/secondary_three/3sec_giology.jpg"
+        "img": "https://raw.githubusercontent.com/3almsimsim/store/main/books/books_images/secondary_three/3sec_giology.jpg"
     },
     {
         "id": "1707",
@@ -53,7 +53,7 @@
         "name": "الإمتحان كيميا للصف الثالث الثانوى 2025",
         "desc": "الإمتحان كيميا للصف الثالث الثانوى 2025",
         "price": 230,
-        "img": "./books_images/secondary_three/3sec_chemistry.jpg"
+        "img": "https://raw.githubusercontent.com/3almsimsim/store/main/books/books_images/secondary_three/3sec_chemistry.jpg"
     }
     ,
     {
@@ -62,6 +62,6 @@
         "name": "الإمتحان عربى للصف الثالث الثانوى 2025",
         "desc": "الإمتحان عربى للصف الثالث الثانوى 2025",
         "price": 230,
-        "img": "./books_images/secondary_three/3sec_Arabic.jpg"
+        "img": "https://raw.githubusercontent.com/3almsimsim/store/main/books/books_images/secondary_three/3sec_Arabic.jpg"
     }
 ]
