@@ -36,7 +36,7 @@
      "section": "kg1",
      "name": "Step Ahead Connect Plus KG1 2025 First Term",
      "desc": "Step Ahead Connect Plus KG1 2025 First Term",
-     "price": 65,
+     "price": 120,
      "img": "https://raw.githubusercontent.com/3almsimsim/store/main/books/books_images/kg1/stepAhead/KG1stepAhead-connectPlus.jpg"
     },
     {
@@ -68,7 +68,7 @@
      "section": "kg2",
      "name": "El-Moasser Connect KG2 2025 First Term",
      "desc": "El-Moasser Connect KG2 2025 First Term",
-     "price": 40,
+     "price": 105,
      "img": "https://raw.githubusercontent.com/3almsimsim/store/main/books/books_images/kg2/kg2-moasser-connect.jpg"
     },
     {
@@ -84,7 +84,7 @@
      "section": "primary_one",
      "name": "El-Moasser Connect Plus 1st Primary 2025 First Term",
      "desc": "El-Moasser Connect Plus 1st Primary 2025 First Term",
-     "price": 85,
+     "price": 170,
      "img": "https://raw.githubusercontent.com/3almsimsim/store/main/books/books_images/one_primary/1stmoasser_connectPlus.jpg"
     },
     {
@@ -100,7 +100,7 @@
      "section": "primary_one",
      "name": "AL-Baher 1st Primary One Connect 2025",
      "desc": "AL-Baher 1st Primary One Connect 2025",
-     "price": 95,
+     "price": 120,
      "img": "https://raw.githubusercontent.com/3almsimsim/store/main/books/books_images/one_primary/1st-Baher-Connect.jpg"
     },
     {
@@ -148,7 +148,7 @@
      "section": "primary_one",
      "name": "ALADWAA 1st Primary One Mathematics 2025",
      "desc": "ALADWAA 1st Primary One Mathematics 2025",
-     "price": 120,
+     "price": 100,
      "img": "https://raw.githubusercontent.com/3almsimsim/store/main/books/books_images/one_primary/1st-Adwaa-math.jpg"
     },
     {
@@ -156,7 +156,7 @@
      "section": "primary_two",
      "name": "ALADWAA 2nd Primary One Arabic 2025",
      "desc": "ALADWAA 2nd Primary One Arabic 2025",
-     "price": 120,
+     "price": 125,
      "img": "https://raw.githubusercontent.com/3almsimsim/store/main/books/books_images/two_primary/2nd-Adwaa-Arabic.jpg"
     },
     {
@@ -164,7 +164,7 @@
      "section": "primary_two",
      "name": "ALADWAA 2nd Primary Two mathematics-Arabic 2025",
      "desc": "ALADWAA 2nd Primary Two mathematics-Arabic 2025",
-     "price": 120,
+     "price": 115,
      "img": "https://raw.githubusercontent.com/3almsimsim/store/main/books/books_images/two_primary/2nd-Adwaa-Mathematics.jpg"
     }
     ,
@@ -173,7 +173,7 @@
      "section": "primary_two",
      "name": "Step Ahead 2nd Primary One Connect 2025",
      "desc": "Step Ahead 2nd Primary One Connect 2025",
-     "price": 125,
+     "price": 135,
      "img": "https://raw.githubusercontent.com/3almsimsim/store/main/books/books_images/two_primary/2nd-StepAhead-Connect.jpg"
     }
     ,
@@ -198,7 +198,7 @@
      "section": "primary_two",
      "name": "AL-Baher Primary Two Connect 2025 First Term",
      "desc": "AL-Baher Primary Two Connect 2025 First Term",
-     "price": 95,
+     "price": 120,
      "img": "https://raw.githubusercontent.com/3almsimsim/store/main/books/books_images/two_primary/2nd-ALBaher-Connect.jpg"
     },
     {
@@ -206,7 +206,7 @@
      "section": "primary_two",
      "name": "El-Moasser Connect 2nd Primary 2025 First Term",
      "desc": "El-Moasser Connect 2nd Primary 2025 First Term",
-     "price": 127,
+     "price": 133,
      "img": "https://raw.githubusercontent.com/3almsimsim/store/main/books/books_images/two_primary/2nd-moasser-Connect.jpg"
     }
    ,
@@ -215,7 +215,7 @@
      "section": "primary_two",
      "name": "El-Moasser Connect Plus 2nd Primary 2025 First Term",
      "desc": "El-Moasser Connect Plus 2nd Primary 2025 First Term",
-     "price": 127,
+     "price": 170,
      "img": "https://raw.githubusercontent.com/3almsimsim/store/main/books/books_images/two_primary/2nd-moasser-ConnectPlus.jpg"
     },
     {
@@ -249,7 +249,7 @@
      "section": "kg2",
      "name": "AlBaher KG2 Math 2025 First Term",
      "desc": "AlBaher KG2 Math 2025 First Term",
-     "price": 150,
+     "price": 70,
      "img": "https://raw.githubusercontent.com/3almsimsim/store/main/books/books_images/kg2/KG2-AlBaher-math.jpg"
     },
     {
@@ -257,7 +257,7 @@
         "section": "primary_two",
         "name": "Selah EL-Telmeez Primary Two Connect 2025",
         "desc": "Selah EL-Telmeez Primary Two Connect 2025",
-        "price": 150,
+        "price": 110,
         "img": "https://raw.githubusercontent.com/3almsimsim/store/main/books/books_images/two_primary/2nd-SelahEnglish.jpg"
        },
     {
@@ -265,7 +265,7 @@
         "section": "primary_two",
         "name": "Selah EL-Telmeez Primary Two Mathematics-Arabic 2025",
         "desc": "Selah EL-Telmeez Primary Two Mathematics-Arabic 2025",
-        "price": 150,
+        "price": 120,
         "img": "https://raw.githubusercontent.com/3almsimsim/store/main/books/books_images/two_primary/2nd-SelahMathematics.jpg"
        },
     {
@@ -273,7 +273,7 @@
         "section": "primary_two",
         "name": "Selah EL-Telmeez Primary Two Arabic 2025",
         "desc": "Selah EL-Telmeez Primary Two Arabic 2025",
-        "price": 150,
+        "price": 129,
         "img": "https://raw.githubusercontent.com/3almsimsim/store/main/books/books_images/two_primary/2nd-SelahArabic.jpg"
        },
     {
