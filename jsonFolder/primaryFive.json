@@ -38,7 +38,7 @@
      "section": "primary_five",
      "name": "El-Moasser Primary Five Connect Plus 2025 First Term",
      "desc": "El-Moasser Primary Five Connect Plus 2025 First Term",
-     "price": 110,
+     "price": 167,
      "img": "https://raw.githubusercontent.com/3almsimsim/store/main/books/books_images/primary_five/5th-MoaaserConnectPlus.jpg"
     },
     {
@@ -46,15 +46,15 @@
      "section": "primary_five",
      "name": "Selah EL-Telmeez Primary Five Connect 2025",
      "desc": "Selah EL-Telmeez Primary Five Connect 2025",
-     "price": 40,
+     "price": 135,
      "img": "https://raw.githubusercontent.com/3almsimsim/store/main/books/books_images/primary_five/5th-SelahEnglish.jpg"
     },
     {
      "id": "1207",
      "section": "primary_six",
      "name": "Selah EL-Telmeez Primary Six Connect 2025",
-     "desc": "El-Moasser Connect 1st Six 2025 First Term",
-     "price": 127,
+     "desc": "Selah EL-Telmeez Primary Six Connect 2025",
+     "price": 135,
      "img": "https://raw.githubusercontent.com/3almsimsim/store/main/books/books_images/primary_six/6th-SelahEnglish.jpg"
     },
     {
@@ -62,7 +62,7 @@
         "section": "primary_five",
         "name": "Bit by Bit Primary Five CONNECT 2025 First Term",
         "desc": "Bit by Bit Primary Five CONNECT 2025 First Term",
-        "price": 130,
+        "price": 125,
         "img": "https://raw.githubusercontent.com/3almsimsim/store/main/books/books_images/primary_five/5th-BitbyBitConnect.jpg"
        },
     {
@@ -70,7 +70,7 @@
         "section": "primary_six",
         "name": "Bit by Bit Primary Six CONNECT 2025 First Term",
         "desc": "Bit by Bit Primary Six CONNECT 2025 First Term",
-        "price": 130,
+        "price": 125,
         "img": "https://raw.githubusercontent.com/3almsimsim/store/main/books/books_images/primary_six/6th-BitbyBitConnect.jpg"
        },
     {
@@ -78,7 +78,7 @@
         "section": "primary_five",
         "name": "المعاصر انجليزى كونكت الصف الخامس 2025 الترم الأول",
         "desc": "المعاصر انجليزى كونكت الصف الخامس 2025 الترم الأول",
-        "price": 150,
+        "price": 155,
         "img": "https://raw.githubusercontent.com/3almsimsim/store/main/books/books_images/primary_five/5th-MoaaserConnect.jpg"
        },
        {
@@ -86,7 +86,7 @@
         "section": "primary_six",
         "name": "المعاصر انجليزى كونكت الصف السادس 2025 الترم الأول",
         "desc": "المعاصر انجليزى كونكت الصف السادس 2025 الترم الأول",
-        "price": 150,
+        "price": 157,
         "img": "https://raw.githubusercontent.com/3almsimsim/store/main/books/books_images/primary_six/6th-MoaaserConnect.jpg"
        },
     {
@@ -94,7 +94,7 @@
         "section": "primary_five",
         "name": "الأضواء عربى الصف الخامس 2025 الترم الأول",
         "desc": "الأضواء عربى الصف الخامس 2025 الترم الأول",
-        "price": 150,
+        "price": 145,
         "img": "https://raw.githubusercontent.com/3almsimsim/store/main/books/books_images/primary_five/5th-adwaaArabic.jpg"
        },
        {
@@ -102,7 +102,7 @@
         "section": "primary_five",
         "name": "الأضواء دراسات الصف الخامس 2025 الترم الأول",
         "desc": "الأضواء دراسات الصف الخامس 2025 الترم الأول",
-        "price": 150,
+        "price": 130,
         "img": "https://raw.githubusercontent.com/3almsimsim/store/main/books/books_images/primary_five/5th-AdwaaDrasat.jpg"
        },
        {
@@ -110,7 +110,7 @@
         "section": "primary_five",
         "name": "الأضواء علوم الصف الخامس 2025 الترم الأول",
         "desc": "الأضواء علوم الصف الخامس 2025 الترم الأول",
-        "price": 150,
+        "price": 130,
         "img": "https://raw.githubusercontent.com/3almsimsim/store/main/books/books_images/primary_five/5th-olom.jpg"
        },
        {
@@ -118,7 +118,7 @@
         "section": "primary_five",
         "name": "الأضواء رياضيات الصف الخامس 2025 الترم الأول",
         "desc": "الأضواء رياضيات الصف الخامس 2025 الترم الأول",
-        "price": 150,
+        "price": 135,
         "img": "https://raw.githubusercontent.com/3almsimsim/store/main/books/books_images/primary_five/5th-math-Arabic.jpg"
        },
        {
@@ -126,7 +126,7 @@
         "section": "primary_six",
         "name": "الأضواء رياضيات الصف السادس 2025 الترم الأول",
         "desc": "الأضواء رياضيات الصف السادس 2025 الترم الأول",
-        "price": 150,
+        "price": 140,
         "img": "https://raw.githubusercontent.com/3almsimsim/store/main/books/books_images/primary_six/6th-math-Arabic.jpg"
        },
        {
@@ -134,7 +134,7 @@
         "section": "primary_six",
         "name": "الأضواء علوم الصف السادس 2025 الترم الأول",
         "desc": "الأضواء علوم الصف السادس 2025 الترم الأول",
-        "price": 150,
+        "price": 130,
         "img": "https://raw.githubusercontent.com/3almsimsim/store/main/books/books_images/primary_six/6th-olom.jpg"
        },
        {
@@ -142,7 +142,7 @@
         "section": "primary_six",
         "name": "الأضواء دراسات الصف السادس 2025 الترم الأول",
         "desc": "الأضواء دراسات الصف السادس 2025 الترم الأول",
-        "price": 150,
+        "price": 140,
         "img": "https://raw.githubusercontent.com/3almsimsim/store/main/books/books_images/primary_six/6th-AdwaaDrasat.jpg"
        },
        {
