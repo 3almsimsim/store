@@ -31,6 +31,62 @@
      "desc": "المعاصر انجليزى الصف الثالث الإعدادى 2025 الترم الأول",
      "price": 158,
      "img": "https://raw.githubusercontent.com/3almsimsim/store/main/books/books_images/prep-three/3rd-prepMoaaserConnect.jpg"
+    },
+    {
+     "id": "1405",
+     "section": "prep_three",
+     "name": "أضواء رياضيات الصف الثالث الإعدادى 2025 الترم الأول",
+     "desc": "اضواء رياضيات الصف الثالث الإعدادى 2025 الترم الأول",
+     "price": 158,
+     "img": "https://raw.githubusercontent.com/3almsimsim/store/main/books/books_images/prep-three/3rd-prepAdwaa-MathArabic.jpg"
+    },
+    {
+     "id": "1406",
+     "section": "prep_three",
+     "name": "أضواء عربى الصف الثالث الإعدادى 2025 الترم الأول",
+     "desc": "اضواء عربى الصف الثالث الإعدادى 2025 الترم الأول",
+     "price": 158,
+     "img": "https://raw.githubusercontent.com/3almsimsim/store/main/books/books_images/prep-three/3rd-prepAdwaaArabic.jpg"
+    },
+    {
+     "id": "1407",
+     "section": "prep_three",
+     "name": "أضواء دين الصف الثالث الإعدادى 2025 الترم الأول",
+     "desc": "اضواء دين الصف الثالث الإعدادى 2025 الترم الأول",
+     "price": 158,
+     "img": "https://raw.githubusercontent.com/3almsimsim/store/main/books/books_images/prep-three/3rd-prepAdwaaDin.jpg"
+    },
+    {
+     "id": "1408",
+     "section": "prep_three",
+     "name": "أضواء دراسات الصف الثالث الإعدادى 2025 الترم الأول",
+     "desc": "اضواء دراسات الصف الثالث الإعدادى 2025 الترم الأول",
+     "price": 158,
+     "img": "https://raw.githubusercontent.com/3almsimsim/store/main/books/books_images/prep-three/3rd-prepAdwaaDrasat.jpg"
+    },
+    {
+     "id": "1408",
+     "section": "prep_three",
+     "name": "أضواء علوم الصف الثالث الإعدادى 2025 الترم الأول",
+     "desc": "اضواء علوم الصف الثالث الإعدادى 2025 الترم الأول",
+     "price": 158,
+     "img": "https://raw.githubusercontent.com/3almsimsim/store/main/books/books_images/prep-three/3rd-prepAdwaaOlom.jpg"
+    },
+    {
+     "id": "1409",
+     "section": "prep_three",
+     "name": "أضواء إنجليزى الصف الثالث الإعدادى 2025 الترم الأول",
+     "desc": "اضواء إنجليزى الصف الثالث الإعدادى 2025 الترم الأول",
+     "price": 158,
+     "img": "https://raw.githubusercontent.com/3almsimsim/store/main/books/books_images/prep-three/3rd-prepGem.jpg"
+    },
+    {
+     "id": "1410",
+     "section": "prep_three",
+     "name": "بت باى بت إنجليزى الصف الثالث الإعدادى 2025 الترم الأول",
+     "desc": "بت باى بت إنجليزى الصف الثالث الإعدادى 2025 الترم الأول",
+     "price": 158,
+     "img": "https://raw.githubusercontent.com/3almsimsim/store/main/books/books_images/prep-three/3rd-prepBit.jpg"
     }
     
     
