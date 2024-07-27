@@ -152,6 +152,22 @@
         "desc": "الأضواء عربى الصف السادس 2025 الترم الأول",
         "price": 150,
         "img": "https://raw.githubusercontent.com/3almsimsim/store/main/books/books_images/primary_six/6th-adwaaArabic.jpg"
+       },
+       {
+        "id": "1220",
+        "section": "primary_six",
+        "name": "سلاح التلميد عربى الصف السادس 2025 الترم الأول",
+        "desc": "الأضواء عربى الصف السادس 2025 الترم الأول",
+        "price": 150,
+        "img": "https://raw.githubusercontent.com/3almsimsim/store/main/books/books_images/primary_six/6th-selahArabic.jpg"
+       },
+       {
+        "id": "1221",
+        "section": "primary_six",
+        "name": "سلاح التلميد علوم الصف السادس 2025 الترم الأول",
+        "desc": "الأضواء علوم الصف السادس 2025 الترم الأول",
+        "price": 150,
+        "img": "https://raw.githubusercontent.com/3almsimsim/store/main/books/books_images/primary_six/6th-selahArabic.jpg"
        }
     
     
