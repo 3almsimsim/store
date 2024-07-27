@@ -231,5 +231,37 @@
         "desc": "المعاصر انجليزى كونكت الصف الرابع 2025 الترم الأول",
         "price": 150,
         "img": "https://raw.githubusercontent.com/3almsimsim/store/main/books/books_images/primary_four/4th-MoaaserConnect.jpg"
+       }و
+     {
+        "id": "1041",
+        "section": "primary_four",
+        "name": "سلاح التلميذ عربى الصف الرابع 2025 الترم الأول",
+        "desc": "سلاح التلميذ عربى الصف الرابع 2025 الترم الأول",
+        "price": 150,
+        "img": "https://raw.githubusercontent.com/3almsimsim/store/main/books/books_images/primary_four/4th-selahArabic.jpg"
+       },
+     {
+        "id": "1042",
+        "section": "primary_four",
+        "name": "سلاح التلميذ علوم الصف الرابع 2025 الترم الأول",
+        "desc": "سلاح التلميذ علوم الصف الرابع 2025 الترم الأول",
+        "price": 150,
+        "img": "https://raw.githubusercontent.com/3almsimsim/store/main/books/books_images/primary_four/4th-selahOlom.jpg"
+       }و
+     {
+        "id": "1043",
+        "section": "primary_four",
+        "name": "سلاح التلميذ دراسات الصف الرابع 2025 الترم الأول",
+        "desc": "سلاح التلميذ دراسات الصف الرابع 2025 الترم الأول",
+        "price": 150,
+        "img": "https://raw.githubusercontent.com/3almsimsim/store/main/books/books_images/primary_four/4th-selahDrasat.jpg"
+       },
+     {
+        "id": "1044",
+        "section": "primary_four",
+        "name": "سلاح التلميذ رياضيات الصف الرابع 2025 الترم الأول",
+        "desc": "سلاح التلميذ رياضيات الصف الرابع 2025 الترم الأول",
+        "price": 150,
+        "img": "https://raw.githubusercontent.com/3almsimsim/store/main/books/books_images/primary_four/4th-selahMath.jpg"
        }
 ]
