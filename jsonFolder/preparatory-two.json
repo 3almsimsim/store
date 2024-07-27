@@ -39,7 +39,46 @@
      "desc": "الأضواء دين الصف الثانى الإعدادى 2025 الترم الأول",
      "price": 90,
      "img": "https://raw.githubusercontent.com/3almsimsim/store/main/books/books_images/prep-two/2nd-prepAdwaaDin.jpg"
-"
+    }, 
+    {
+     "id": "1306",
+     "section": "prep_two",
+     "name": "الأضواء عربى الصف الثانى الإعدادى 2025 الترم الأول",
+     "desc": "الأضواء عربى الصف الثانى الإعدادى 2025 الترم الأول",
+     "price": 150,
+     "img": "https://raw.githubusercontent.com/3almsimsim/store/main/books/books_images/prep-two/2nd-prepAdwaaArabic.jpg"
+    },  
+    {
+     "id": "1307",
+     "section": "prep_two",
+     "name": "الأضواء علوم الصف الثانى الإعدادى 2025 الترم الأول",
+     "desc": "الأضواء علوم الصف الثانى الإعدادى 2025 الترم الأول",
+     "price": 125,
+     "img": "https://raw.githubusercontent.com/3almsimsim/store/main/books/books_images/prep-two/2nd-prepAdwaaOlom.jpg"
+    },  
+    {
+     "id": "1308",
+     "section": "prep_two",
+     "name": "الأضواء دراسات الصف الثانى الإعدادى 2025 الترم الأول",
+     "desc": "الأضواء دراسات الصف الثانى الإعدادى 2025 الترم الأول",
+     "price": 129,
+     "img": "https://raw.githubusercontent.com/3almsimsim/store/main/books/books_images/prep-two/2nd-prepAdwaaDrasat.jpg"
+    },  
+    {
+     "id": "1309",
+     "section": "prep_two",
+     "name": "الأضواء رياضيات الصف الثانى الإعدادى 2025 الترم الأول",
+     "desc": "الأضواء رياضيات الصف الثانى الإعدادى 2025 الترم الأول",
+     "price": 125,
+     "img": "https://raw.githubusercontent.com/3almsimsim/store/main/books/books_images/prep-two/2nd-prepAdwaaMath.jpg"
+    }  
+    {
+     "id": "1310",
+     "section": "prep_two",
+     "name": "الأضواء إنجليزى الصف الثانى الإعدادى 2025 الترم الأول",
+     "desc": "الأضواء إنجليزى الصف الثانى الإعدادى 2025 الترم الأول",
+     "price": 155,
+     "img": "https://raw.githubusercontent.com/3almsimsim/store/main/books/books_images/prep-two/2nd-prepAdwaaEnglish.jpg"
     }  
    ]
    
