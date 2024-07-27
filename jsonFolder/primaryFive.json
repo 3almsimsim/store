@@ -167,11 +167,11 @@
         "name": "سلاح التلميد علوم الصف السادس 2025 الترم الأول",
         "desc": "الأضواء علوم الصف السادس 2025 الترم الأول",
         "price": 150,
-        "img": "https://raw.githubusercontent.com/3almsimsim/store/main/books/books_images/primary_six/6th-selahArabic.jpg"
+        "img": "https://raw.githubusercontent.com/3almsimsim/store/main/books/books_images/primary_six/6th-selahOlom.jpg"
        },
        {
         "id": "1222",
-        "section": "primary_six",
+        "section": "primary_five",
         "name": "سلاح التلميد عربى الصف الخامس 2025 الترم الأول",
         "desc": "الأضواء عربى الصف الخامس 2025 الترم الأول",
         "price": 150,
@@ -179,7 +179,7 @@
        },
        {
         "id": "1223",
-        "section": "primary_six",
+        "section": "primary_five",
         "name": "سلاح التلميد علوم الصف الخامس 2025 الترم الأول",
         "desc": "الأضواء علوم الصف الخامس 2025 الترم الأول",
         "price": 150,
@@ -187,7 +187,7 @@
        },
        {
         "id": "1224",
-        "section": "primary_six",
+        "section": "primary_five",
         "name": "سلاح التلميد دراسات الصف الخامس 2025 الترم الأول",
         "desc": "الأضواء دراسات الصف الخامس 2025 الترم الأول",
         "price": 150,
@@ -195,11 +195,11 @@
        },
        {
         "id": "1225",
-        "section": "primary_six",
+        "section": "primary_five",
         "name": "سلاح التلميد رياضيات الصف الخامس 2025 الترم الأول",
         "desc": "الأضواء رياضيات الصف الخامس 2025 الترم الأول",
         "price": 150,
-        "img": "https://raw.githubusercontent.com/3almsimsim/store/main/books/books_images/primary_six/6th-selahmath.jpg"
+        "img": "https://raw.githubusercontent.com/3almsimsim/store/main/books/books_images/primary_five/5th-selahmath.jpg"
        }
     
     
