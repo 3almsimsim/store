@@ -263,5 +263,22 @@
         "desc": "سلاح التلميذ رياضيات الصف الرابع 2025 الترم الأول",
         "price": 140,
         "img": "https://raw.githubusercontent.com/3almsimsim/store/main/books/books_images/primary_four/4th-SelahMath.jpg"
+       },
+     {
+        "id": "1045",
+        "section": "primary_four",
+        "name": "سلاح التلميذ مهارات مهنية الصف الرابع 2025 الترم الأول",
+        "desc": "سلاح التلميذ رياضيات الصف الرابع 2025 الترم الأول",
+        "price": 100,
+        "img": "https://raw.githubusercontent.com/3almsimsim/store/main/books/books_images/primary_four/4th-SelahSkils.jpg"
+       }
+]
+     {
+        "id": "1046",
+        "section": "primary_four",
+        "name": "سلاح التلميذ تكنولوجيا المعلومات والإتصالات الصف الرابع 2025 الترم الأول",
+        "desc": "سلاح التلميذ تكنولوجيا المعلومات والإتصالات الصف الرابع 2025 الترم الأول",
+        "price": 100,
+        "img": "https://raw.githubusercontent.com/3almsimsim/store/main/books/books_images/primary_four/4th-SelahTechno.jpg"
        }
 ]
