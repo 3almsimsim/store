@@ -240,6 +240,14 @@
         "desc": "سلاح التلميد ترياضيات الصف السادس 2025 الترم الأول",
         "price": 100,
         "img": "https://raw.githubusercontent.com/3almsimsim/store/main/books/books_images/primary_six/6th-SelahMath.jpg"
+       },
+       {
+        "id": "1231",
+        "section": "primary_five",
+        "name": "Pony ICT Primary Five 2025 First Term",
+        "desc": "Pony ICT Primary Five 2025 First Term",
+        "price": 100,
+        "img": "https://raw.githubusercontent.com/3almsimsim/store/main/books/books_images/primary_five/5th-ponyIct.jpg"
        }
     
     
