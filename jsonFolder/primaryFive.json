@@ -158,7 +158,7 @@
         "section": "primary_six",
         "name": "سلاح التلميد عربى الصف السادس 2025 الترم الأول",
         "desc": "سلاح التلميد عربى الصف السادس 2025 الترم الأول",
-        "price": 150,
+        "price": 159,
         "img": "https://raw.githubusercontent.com/3almsimsim/store/main/books/books_images/primary_six/6th-SelahArabic.jpg"
        },
        {
@@ -166,7 +166,7 @@
         "section": "primary_six",
         "name": "سلاح التلميد علوم الصف السادس 2025 الترم الأول",
         "desc": "سلاح التلميد علوم الصف السادس 2025 الترم الأول",
-        "price": 150,
+        "price": 135,
         "img": "https://raw.githubusercontent.com/3almsimsim/store/main/books/books_images/primary_six/6th-SelahOlom.jpg"
        },
        {
@@ -174,7 +174,7 @@
         "section": "primary_five",
         "name": "سلاح التلميد عربى الصف الخامس 2025 الترم الأول",
         "desc": "سلاح التلميد عربى الصف الخامس 2025 الترم الأول",
-        "price": 150,
+        "price": 149,
         "img": "https://raw.githubusercontent.com/3almsimsim/store/main/books/books_images/primary_five/5th-SelahArabic.jpg"
        },
        {
@@ -182,7 +182,7 @@
         "section": "primary_five",
         "name": "سلاح التلميد علوم الصف الخامس 2025 الترم الأول",
         "desc": "سلاح التلميد علوم الصف الخامس 2025 الترم الأول",
-        "price": 150,
+        "price": 130,
         "img": "https://raw.githubusercontent.com/3almsimsim/store/main/books/books_images/primary_five/5th-SelahOlom.jpg"
        },
        {
@@ -190,7 +190,7 @@
         "section": "primary_five",
         "name": "سلاح التلميد دراسات الصف الخامس 2025 الترم الأول",
         "desc": "سلاح التلميد دراسات الصف الخامس 2025 الترم الأول",
-        "price": 150,
+        "price": 130,
         "img": "https://raw.githubusercontent.com/3almsimsim/store/main/books/books_images/primary_five/5th-SelahDrasat.jpg"
        },
        {
@@ -198,8 +198,48 @@
         "section": "primary_five",
         "name": "سلاح التلميد رياضيات الصف الخامس 2025 الترم الأول",
         "desc": "سلاح التلميد رياضيات الصف الخامس 2025 الترم الأول",
-        "price": 150,
+        "price": 140,
         "img": "https://raw.githubusercontent.com/3almsimsim/store/main/books/books_images/primary_five/5th-SelahMath.jpg"
+       },
+       {
+        "id": "1226",
+        "section": "primary_five",
+        "name": "سلاح التلميد تكنولوجيا المعلومات والإتصالات الصف الخامس 2025 الترم الأول",
+        "desc": "سلاح التلميد تكنولوجيا المعلومات والإتصالات الصف الخامس 2025 الترم الأول",
+        "price": 100,
+        "img": "https://raw.githubusercontent.com/3almsimsim/store/main/books/books_images/primary_five/5th-SelahTechno.jpg"
+       },
+       {
+        "id": "1227",
+        "section": "primary_six",
+        "name": "سلاح التلميد تكنولوجيا المعلومات والإتصالات الصف الخامس 2025 الترم الأول",
+        "desc": "سلاح التلميد تكنولوجيا المعلومات والإتصالات الصف الخامس 2025 الترم الأول",
+        "price": 105,
+        "img": "https://raw.githubusercontent.com/3almsimsim/store/main/books/books_images/primary_six/6th-SelahTechno.jpg"
+       },
+       {
+        "id": "1228",
+        "section": "primary_six",
+        "name": "سلاح التلميد مهارات مهنية الصف السادس 2025 الترم الأول",
+        "desc": "سلاح التلميد مهارات مهنية الصف السادس 2025 الترم الأول",
+        "price": 105,
+        "img": "https://raw.githubusercontent.com/3almsimsim/store/main/books/books_images/primary_six/6th-SelahSkils.jpg"
+       },
+       {
+        "id": "1229",
+        "section": "primary_five",
+        "name": "سلاح التلميد مهارات مهنية الصف الخامس 2025 الترم الأول",
+        "desc": "سلاح التلميد تمهارات مهنية الصف الخامس 2025 الترم الأول",
+        "price": 100,
+        "img": "https://raw.githubusercontent.com/3almsimsim/store/main/books/books_images/primary_five/5th-SelahSkils.jpg"
+       },
+       {
+        "id": "1230",
+        "section": "primary_six",
+        "name": "سلاح التلميد رياضيات الصف السادس 2025 الترم الأول",
+        "desc": "سلاح التلميد ترياضيات الصف السادس 2025 الترم الأول",
+        "price": 100,
+        "img": "https://raw.githubusercontent.com/3almsimsim/store/main/books/books_images/primary_six/6th-SelahMath.jpg"
        }
     
     
