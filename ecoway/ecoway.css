@@ -23,8 +23,8 @@ main {
 }
 
 @media (max-width: 799px) {
-  .banner {
-    height: 150px;
+ .ecoBanner img {
+  width: 300px;
   
 }
   }
@@ -34,8 +34,8 @@ main {
 /* ===========mobile========== */
 
 @media (max-width: 377px) {
-  .banner {
-    height: 150px;
-  
+    .ecoBanner img {
+  width: 300px;
+}
 }
 }
