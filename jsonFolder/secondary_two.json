@@ -19,48 +19,48 @@
     {
         "id": "2003",
         "section": "secondary_one",
-        "name": "المعاصر رياضيات  للصف الأول الثانوى 2025",
-        "desc": "المعاصر رياضيات  للصف الأول الثانوى 2025",
+        "name": "المعاصر رياضيات للصف الأول الثانوى 2025",
+        "desc": "المعاصر رياضيات للصف الأول الثانوى 2025",
         "price": 170,
         "img": "https://raw.githubusercontent.com/3almsimsim/store/main/books/books_images/secondary_one/1sec-moaassermath-Arabic.jpg"
     },
     {
         "id": "2004",
         "section": "secondary_one",
-        "name": "المعاصر فرنساوى  للصف الأول الثانوى 2025",
-        "desc": "المعاصر فرنساوى  للصف الأول الثانوى 2025",
+        "name": "المعاصر فرنساوى للصف الأول الثانوى 2025",
+        "desc": "المعاصر فرنساوى للصف الأول الثانوى 2025",
         "price": 155,
         "img": "https://raw.githubusercontent.com/3almsimsim/store/main/books/books_images/secondary_one/1sec-moaasserFrench.jpg"
     },
     {
         "id": "2005",
         "section": "secondary_two",
-        "name": "المعاصر إنجليزى  للصف الثانى الثانوى 2025",
-        "desc": "المعاصر إنجليزى  للصف الثانى الثانوى 2025",
+        "name": "المعاصر إنجليزى للصف الثانى الثانوى 2025",
+        "desc": "المعاصر إنجليزى للصف الثانى الثانوى 2025",
         "price": 235,
         "img": "https://raw.githubusercontent.com/3almsimsim/store/main/books/books_images/secondary_two/sec2_moasserEnglish.jpg"
     },
     {
         "id": "2006",
         "section": "secondary_one",
-        "name": "الإمتحان تاريخ  للصف الأول الثانوى 2025",
-        "desc": "الإمتحان تاريخ  للصف الأول الثانوى 2025",
+        "name": "الإمتحان تاريخ للصف الأول الثانوى 2025",
+        "desc": "الإمتحان تاريخ للصف الأول الثانوى 2025",
         "price": 130,
         "img": "https://raw.githubusercontent.com/3almsimsim/store/main/books/books_images/secondary_one/1sec-history.jpg"
     },
     {
         "id": "2007",
         "section": "secondary_one",
-        "name": "الإمتحان جغرافيا  للصف الأول الثانوى 2025",
-        "desc": "الإمتحان جغرافيا  للصف الأول الثانوى 2025",
+        "name": "الإمتحان جغرافيا للصف الأول الثانوى 2025",
+        "desc": "الإمتحان جغرافيا للصف الأول الثانوى 2025",
         "price": 125,
         "img": "https://raw.githubusercontent.com/3almsimsim/store/main/books/books_images/secondary_one/1sec-geoghraphy.jpg"
     },
     {
         "id": "2008",
         "section": "secondary_one",
-        "name": "الإمتحان كيميا  للصف الأول الثانوى 2025",
-        "desc": "الإمتحان كيميا  للصف الأول الثانوى 2025",
+        "name": "الإمتحان كيميا للصف الأول الثانوى 2025",
+        "desc": "الإمتحان كيميا للصف الأول الثانوى 2025",
         "price": 145,
         "img": "https://raw.githubusercontent.com/3almsimsim/store/main/books/books_images/secondary_one/1sec-chemistryArabic.jpg"
     },
@@ -75,10 +75,18 @@
     {
         "id": "2010",
         "section": "secondary_two",
-        "name": "الإمتحان عربى  للصف الثانى الثانوى 2025",
-        "desc": "الإمتحان عربى  للصف الثانى الثانوى 2025",
+        "name": "الإمتحان عربى للصف الثانى الثانوى 2025",
+        "desc": "الإمتحان عربى للصف الثانى الثانوى 2025",
         "price": 210,
         "img": "https://raw.githubusercontent.com/3almsimsim/store/main/books/books_images/secondary_two/sec2_emthanArabic.jpg"
+    },
+    {
+        "id": "2011",
+        "section": "secondary_two",
+        "name": "برافو فرنساوى للصف الثانى الثانوى 2025",
+        "desc": "برافو فرنساوى للصف الثانى الثانوى 2025",
+        "price": 150,
+        "img": "https://raw.githubusercontent.com/3almsimsim/store/main/books/books_images/secondary_two/sec2_bravo.jpg"
     }
     
     
