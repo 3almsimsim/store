@@ -63,5 +63,13 @@
         "desc": "الإمتحان عربى للصف الثالث الثانوى 2025",
         "price": 205,
         "img": "https://raw.githubusercontent.com/3almsimsim/store/main/books/books_images/secondary_three/3sec_Arabic.jpg"
+    },
+    {
+        "id": "1709",
+        "section": "secondary_three",
+        "name": "برافو فرنساوى للصف الثالث الثانوى 2025",
+        "desc": "برافو فرنساوى للصف الثالث الثانوى 2025",
+        "price": 220,
+        "img": "https://raw.githubusercontent.com/3almsimsim/store/main/books/books_images/secondary_three/3sec_bravo.jpg"
     }
 ]
