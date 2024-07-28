@@ -271,8 +271,7 @@
         "desc": "سلاح التلميذ رياضيات الصف الرابع 2025 الترم الأول",
         "price": 100,
         "img": "https://raw.githubusercontent.com/3almsimsim/store/main/books/books_images/primary_four/4th-SelahSkils.jpg"
-       }
-]
+       },
      {
         "id": "1046",
         "section": "primary_four",
@@ -280,5 +279,23 @@
         "desc": "سلاح التلميذ تكنولوجيا المعلومات والإتصالات الصف الرابع 2025 الترم الأول",
         "price": 100,
         "img": "https://raw.githubusercontent.com/3almsimsim/store/main/books/books_images/primary_four/4th-SelahTechno.jpg"
+       },
+     {
+        "id": "1047",
+        "section": "primary_four",
+        "name": "Pony ICT Primary Four 2025 First Trem",
+        "desc": "Pony ICT Primary Four 2025 First Trem",
+        "price": 120,
+        "img": "https://raw.githubusercontent.com/3almsimsim/store/main/books/books_images/primary_four/4th-ponyIct.jpg"
+       },
+     {
+        "id": "1048",
+        "section": "primary_four",
+        "name": "Pony Science Primary Four 2025 First Trem",
+        "desc": "Pony Science Primary Four 2025 First Trem",
+        "price": 195,
+        "img": "https://raw.githubusercontent.com/3almsimsim/store/main/books/books_images/primary_four/4th-ponyScience.jpg"
        }
+
+    
 ]
