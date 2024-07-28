@@ -245,7 +245,7 @@
         "section": "primary_four",
         "name": "سلاح التلميذ علوم الصف الرابع 2025 الترم الأول",
         "desc": "سلاح التلميذ علوم الصف الرابع 2025 الترم الأول",
-        "price": 150,
+        "price": 130,
         "img": "https://raw.githubusercontent.com/3almsimsim/store/main/books/books_images/primary_four/4th-SelahOlom.jpg"
        },
      {
@@ -253,7 +253,7 @@
         "section": "primary_four",
         "name": "سلاح التلميذ دراسات الصف الرابع 2025 الترم الأول",
         "desc": "سلاح التلميذ دراسات الصف الرابع 2025 الترم الأول",
-        "price": 150,
+        "price": 130,
         "img": "https://raw.githubusercontent.com/3almsimsim/store/main/books/books_images/primary_four/4th-SelahDrasat.jpg"
        },
      {
@@ -261,7 +261,7 @@
         "section": "primary_four",
         "name": "سلاح التلميذ رياضيات الصف الرابع 2025 الترم الأول",
         "desc": "سلاح التلميذ رياضيات الصف الرابع 2025 الترم الأول",
-        "price": 150,
+        "price": 140,
         "img": "https://raw.githubusercontent.com/3almsimsim/store/main/books/books_images/primary_four/4th-SelahMath.jpg"
        }
 ]
