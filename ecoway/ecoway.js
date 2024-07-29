@@ -177,6 +177,7 @@ class UI {
       Name_Items.value += item.name + "\n";
       amount.value += item.amount + "\n";
       Price.value += item.price + "\n";
+    image.value += item.img + "\n";
       console.log(amount.value);
      
   }
