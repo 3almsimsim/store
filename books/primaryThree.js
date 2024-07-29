@@ -11,6 +11,7 @@ const cartContent = document.querySelector(".cartContainer");
 const productsDOM = document.querySelector(".week-section-container");
 const fourDOM = document.querySelector('.four-container')
 const twoDOM = document.querySelector('.two-container')
+const image = document.getElementById("image");
 // const two_link = document.getElementById('two_link')
 
 // const btns = document.querySelectorAll('.addTo-cart');
