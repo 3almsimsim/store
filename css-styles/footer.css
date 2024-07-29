@@ -11,6 +11,8 @@ footer {
   }
 
 @media (max-width: 414px) {
+  footer p {
 font-size: 0.7rem;
+  }
 }
 
