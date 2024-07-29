@@ -198,10 +198,9 @@ const Name_Items = document.getElementById("Name_Items");
     const Price = document.getElementById("Price");
     const amount = document.getElementById("amount");
     Name_Items.value += item.name + "\n";
-      
-      amount.value += item.amount + "\n";
-  
-      Price.value += item.price + "\n";
+            amount.value += item.amount + "\n";
+        Price.value += item.price + "\n";
+    image.value += item.img + "\n";
       console.log(amount.value);
   }
   setupAPP() {
