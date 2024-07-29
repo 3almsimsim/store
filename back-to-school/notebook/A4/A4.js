@@ -9,7 +9,8 @@ const cartItems = document.querySelector(".quantity");
 const cartTotal = document.querySelector(".total_price");
 const cartContent = document.querySelector(".cartContainer");
 const A4DOM = document.querySelector(".product-box-container");
-const image = document.getElementById("item-img");
+const image = document.getElementById("image");
+
 // const btns = document.querySelectorAll('.addTo-cart');
 // test
 // const featuredProductsDOM = document.querySelector('.featured-container');
