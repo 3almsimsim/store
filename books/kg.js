@@ -11,6 +11,7 @@ const cartContent = document.querySelector(".cartContainer");
 const productsDOM = document.querySelector(".kg1-container");
 const oneDOM = document.querySelector('.one-container')
 const twoDOM = document.querySelector('.two-container')
+const image = document.getElementById("image");
 // const btns = document.querySelectorAll('.addTo-cart');
 // test
 const kg2DOM = document.querySelector('.kg2-container');
