@@ -158,7 +158,7 @@ h5 {
 
 
 /* ==============tablet============== */
-@media (max-width: 799px) {
+/* @media (max-width: 799px) {
   .banner img {
     width: 90%;
   }
@@ -168,9 +168,9 @@ h5 {
     grid-template-columns: repeat(3, 1fr);
   }
 }
-
+ */
 /* ==============tablet============== */
-@media (max-width: 600px) {
+@media (max-width: 1280px) {
   .banner img {
     width: 90%;
   }
@@ -194,7 +194,7 @@ h5 {
 }
 
 /* ==============mobile============== */
-@media (max-width: 377px) {
+@media (max-width: 414px) {
   .banner img {
     width: 90%;
     text-align: center;
