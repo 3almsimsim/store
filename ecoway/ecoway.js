@@ -287,6 +287,7 @@ class UI {
     Name_Items.value = [];
     amount.value = [];
     Price.value = [];
+    image.value = "";
   }
   removeItem(id) {
     cart = cart.filter((item) => item.id !== id);
