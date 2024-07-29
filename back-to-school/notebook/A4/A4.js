@@ -268,6 +268,7 @@ else{
     amount.value = [];
     Price.value = [];
     image.value = [];
+    image.value = "";
   }
   removeItem(id){
     cart = cart.filter(item => item.id !==id);
