@@ -86,6 +86,38 @@
         "desc": "استيكة قلم تبديل",
         "price": 8,
         "img": "./images/eraser-pen.jpg"
+    },
+    {
+        "id": "4012",
+        "section": "eraser",
+        "name": "أستيكة شكل صباع روج",
+        "desc": "استيكة شكل صباع روج",
+        "price": 8,
+        "img": "./images/eraser-lipStick.jpg"
+    },
+    {
+        "id": "4012",
+        "section": "eraser",
+        "name": "أستيكة دومز أصلى صناعة الهند",
+        "desc": "أستيكة دومز أصلى صناعة الهند",
+        "price": 15,
+        "img": "./images/x1-black.jpg"
+    },
+    {
+        "id": "4012",
+        "section": "eraser",
+        "name": "أستيكة دومز أصلى صناعة الهند",
+        "desc": "أستيكة دومز أصلى صناعة الهند",
+        "price": 5,
+        "img": "./images/x1-white.jpg"
+    },
+    {
+        "id": "4012",
+        "section": "eraser",
+        "name": "أستيكة دومز أصلى صناعة الهند",
+        "desc": "أستيكة دومز أصلى صناعة الهند",
+        "price": 15,
+        "img": "./images/MG-Roses.jpg"
     }
     
     
