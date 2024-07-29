@@ -9,6 +9,7 @@ const cartItems = document.querySelector(".quantity");
 const cartTotal = document.querySelector(".total_price");
 const cartContent = document.querySelector(".cartContainer");
 const productsDOM = document.querySelector(".week-section-container");
+const image = document.getElementById("image");
 // const btns = document.querySelectorAll('.addTo-cart');
 
 // cart
@@ -131,7 +132,8 @@ const Name_Items = document.getElementById("Name_Items");
       Name_Items.value += item.name + "\n";
       amount.value += item.amount + "\n";
       Price.value += item.price + "\n";
-      console.log(amount.value);
+      image.value += item.img + "\n";
+          console.log(amount.value);
   }
   setupAPP() {
 cart = Storage.getCart();
@@ -211,6 +213,7 @@ else{
     Name_Items.value = [];
     amount.value = [];
     Price.value = [];
+    image.value ="";
   }
   removeItem(id){
     cart = cart.filter(item => item.id !==id);
