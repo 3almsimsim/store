@@ -9,3 +9,8 @@ footer {
     background-image: linear-gradient(#26b9d1, #1a7c8d);
     margin-top: 2rem;
   }
+
+@media (max-width: 414px) {
+font-size: 0.7rem;
+}
+
