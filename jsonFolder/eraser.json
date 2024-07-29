@@ -78,6 +78,14 @@
         "desc": "أستيكة ديلى حجم صغير لون اسود",
         "price": 15,
         "img": "./images/deli-h006.jpg"
+    },
+    {
+        "id": "4011",
+        "section": "eraser",
+        "name": "أستيكة قلم تبديل",
+        "desc": "استيكة قلم تبديل",
+        "price": 7.5,
+        "img": "./images/eraser-pen.jpg"
     }
     
     
