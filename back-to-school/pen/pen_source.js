@@ -11,6 +11,7 @@ const cartContent = document.querySelector(".cartContainer");
 const penDOM = document.querySelector(".product-box-container");
 const cart_form = document.querySelector(".cart_form");
 let item_amount = document.getElementById('item_amount');
+const image = document.getElementById("image");
 // const sendWhats = document.querySelectorAll('.send-whats');
 // test
 
