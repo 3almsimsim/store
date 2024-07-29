@@ -376,6 +376,86 @@
     "desc": "مقلمة مغناطيس ببراية  فروزن",
     "price": 45,
     "img": "https://raw.githubusercontent.com/3almsimsim/store/main/back-to-school/pencilCase/images/magnetSpace2.jpg"
+   },
+ {
+    "id": "344",
+    "section": "pencilCase",
+    "name": "مقلمة هاردتوب مع مقصورة متعددة الأغراض",
+    "desc": "مقلمة هاردتوب مع مقصورة متعددة الأغراض",
+    "price": 135,
+    "img": "https://raw.githubusercontent.com/3almsimsim/store/main/back-to-school/pencilCase/images/boy&bear.jpg"
+   },
+ {
+    "id": "345",
+    "section": "pencilCase",
+    "name": "مقلمة هاردتوب مع مقصورة متعددة الأغراض",
+    "desc": "مقلمة هاردتوب مع مقصورة متعددة الأغراض",
+    "price": 135,
+    "img": "https://raw.githubusercontent.com/3almsimsim/store/main/back-to-school/pencilCase/images/boy&bear1.jpg"
+   },
+ {
+    "id": "346",
+    "section": "pencilCase",
+    "name": "مقلمة هاردتوب مع مقصورة متعددة الأغراض",
+    "desc": "مقلمة هاردتوب مع مقصورة متعددة الأغراض",
+    "price": 135,
+    "img": "https://raw.githubusercontent.com/3almsimsim/store/main/back-to-school/pencilCase/images/boy&bear2.jpg"
+   }
+ {
+    "id": "347",
+    "section": "pencilCase",
+    "name": "مقلمة هاردتوب مجسم مع مقصورة متعددة الأغراض",
+    "desc": "مقلمة هاردتوب مجسم مع مقصورة متعددة الأغراض",
+    "price": 135,
+    "img": "https://raw.githubusercontent.com/3almsimsim/store/main/back-to-school/pencilCase/images/stitch-black.jpg"
+   }
+ {
+    "id": "348",
+    "section": "pencilCase",
+    "name": "مقلمة هاردتوب مجسم مع مقصورة متعددة الأغراض",
+    "desc": "مقلمة هاردتوب مجسم مع مقصورة متعددة الأغراض",
+    "price": 135,
+    "img": "https://raw.githubusercontent.com/3almsimsim/store/main/back-to-school/pencilCase/images/stitch-blue.jpg"
+   }
+ {
+    "id": "349",
+    "section": "pencilCase",
+    "name": "مقلمة هاردتوب مجسم مع مقصورة متعددة الأغراض",
+    "desc": "مقلمة هاردتوب مجسم مع مقصورة متعددة الأغراض",
+    "price": 135,
+    "img": "https://raw.githubusercontent.com/3almsimsim/store/main/back-to-school/pencilCase/images/dinasour-blue.jpg"
+   },
+ {
+    "id": "350",
+    "section": "pencilCase",
+    "name": "مقلمة بلاستيك مع حامل أقلام وسوستة معدنية",
+    "desc": "مقلمة بلاستيك مع حامل أقلام وسوستة معدنية",
+    "price": 85,
+    "img": "https://raw.githubusercontent.com/3almsimsim/store/main/back-to-school/pencilCase/images/paradise.jpg"
+   },
+ {
+    "id": "351",
+    "section": "pencilCase",
+    "name": "مقلمة هاردتوب مجسم شفاف مع حامل أقلام وسوستة معدنية",
+    "desc": "مقلمة هاردتوب مجسم شفاف مع حامل أقلام وسوستة معدنية",
+    "price": 135,
+    "img": "https://raw.githubusercontent.com/3almsimsim/store/main/back-to-school/pencilCase/images/bts-blue.jpg"
+   },
+ {
+    "id": "352",
+    "section": "pencilCase",
+    "name": "مقلمة هاردتوب مجسم شفاف مع حامل أقلام وسوستة معدنية",
+    "desc": "مقلمة هاردتوب مجسم شفاف مع حامل أقلام وسوستة معدنية",
+    "price": 135,
+    "img": "https://raw.githubusercontent.com/3almsimsim/store/main/back-to-school/pencilCase/images/cute-girl.jpg"
+   },
+ {
+    "id": "353",
+    "section": "pencilCase",
+    "name": "مقلمة هاردتوب مجسم شفاف مع حامل أقلام وسوستة معدنية",
+    "desc": "مقلمة هاردتوب مجسم شفاف مع حامل أقلام وسوستة معدنية",
+    "price": 135,
+    "img": "https://raw.githubusercontent.com/3almsimsim/store/main/back-to-school/pencilCase/images/cute-girlPink.jpg"
    }
 
 ]
