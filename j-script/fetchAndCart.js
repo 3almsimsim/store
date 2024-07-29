@@ -197,6 +197,7 @@ const Name_Items = document.getElementById("Name_Items");
       amount.value += item.amount + "\n";
   
       Price.value += item.price + "\n";
+    image.value += item.img + "\n";
       console.log(amount.value);
   }
   setupAPP() {
