@@ -303,7 +303,7 @@ class UI {
     Name_Items.value = [];
     amount.value = [];
     Price.value = [];
-    
+    image.value = "";
 
 
     if (JSON.parse(localStorage.getItem('cart')) !== null) {
