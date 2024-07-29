@@ -12,6 +12,7 @@ const productsDOM = document.querySelector(".week-section-container");
 const threeDOM = document.querySelector('.three-container')
 const fourDOM = document.querySelector('.four-container')
 const fiveDOM = document.querySelector('.five-container')
+const image = document.getElementById("image");
 // const btns = document.querySelectorAll('.addTo-cart');
 // test
 const sixDOM = document.querySelector('.six-container');
