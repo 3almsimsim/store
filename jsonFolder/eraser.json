@@ -5,7 +5,7 @@
         "name": "أستيكة دومس أصلى هندى ألوان نيون داخل علبة من البلاستيك الشفاف",
         "desc": "أستيكة دومس أصلى هندى ألوان نيون داخل علبة من البلاستيك الشفاف",
         "price": 15,
-        "img": "./images/doms-HexEraser.jpg"
+        "img": "https://raw.githubusercontent.com/3almsimsim/store/main/back-to-school/eraser/images/doms-HexEraser.jpg"
     },
     {
         "id": "4002",
@@ -13,7 +13,7 @@
         "name": "أستيكة دومس أصلى هندى حجم كبير 4 ألوان داخل علبة من البلاستيك الشفاف",
         "desc": "أستيكة دومس أصلى هندى حجم كبير 4 ألوان داخل علبة من البلاستيك الشفاف",
         "price": 20,
-        "img": "./images/doms-EraserLargecover.jpg"
+        "img": "https://raw.githubusercontent.com/3almsimsim/store/main/back-to-school/eraser/images/doms-EraserLargecover.jpg"
     },
     {
         "id": "4003",
@@ -21,7 +21,7 @@
         "name": "أستيكة دومس أصلى هندى حجم صغير لون أبيض",
         "desc": "أستيكة دومس أصلى هندى حجم صغير لون أبيض",
         "price": 4,
-        "img": "./images/doms-whiteDustfree.jpg"
+        "img": "https://raw.githubusercontent.com/3almsimsim/store/main/back-to-school/eraser/images/doms-whiteDustfree.jpg"
     },
     {
         "id": "4004",
@@ -29,7 +29,7 @@
         "name": "أستيكة سيلكا تركى أصلى حجم صغير لون أزرق",
         "desc": "أستيكة سيلكا تركى أصلى حجم صغير لون أزرق",
         "price": 9,
-        "img": "./images/silka-blueEraser.jpg"
+        "img": "https://raw.githubusercontent.com/3almsimsim/store/main/back-to-school/eraser/images/silka-blueEraser.jpg"
     },
     {
         "id": "4005",
@@ -37,7 +37,7 @@
         "name": "أستيكة سيلكا تركى أصلى حجم صغير لون اسود",
         "desc": "أستيكة سيلكا تركى أصلى حجم صغير لون اسود",
         "price": 9,
-        "img": "./images/silka-blackEraser.jpg"
+        "img": "https://raw.githubusercontent.com/3almsimsim/store/main/back-to-school/eraser/images/silka-blackEraser.jpg"
     },
     {
         "id": "4006",
@@ -45,7 +45,7 @@
         "name": "أستيكة سيلكا تركى أصلى حجم كبير ألوان نيون",
         "desc": "أستيكة سيلكا تركى أصلى حجم كبير ألوان نيون",
         "price": 15,
-        "img": "./images/silka-NeonEraser.jpg"
+        "img": "https://raw.githubusercontent.com/3almsimsim/store/main/back-to-school/eraser/images/silka-NeonEraser.jpg"
     },
     {
         "id": "4007",
@@ -53,7 +53,7 @@
         "name": "أستيكة فابر كاستيل تركى أصلى حجم صغير لون اسود",
         "desc": "أستيكة فابر كاستيل تركى أصلى حجم صغير لون اسود",
         "price": 12,
-        "img": "./images/fabercatel-black.jpg"
+        "img": "https://raw.githubusercontent.com/3almsimsim/store/main/back-to-school/eraser/images/fabercatel-black.jpg"
     },
     {
         "id": "4008",
@@ -61,7 +61,7 @@
         "name": "أستيكة فابر كاستيل تركى أصلى حجم صغير لون أحمر",
         "desc": "أستيكة فابر كاستيل تركى أصلى حجم صغير لون أحمر",
         "price": 12,
-        "img": "./images/fabercatel-red.jpg"
+        "img": "https://raw.githubusercontent.com/3almsimsim/store/main/back-to-school/eraser/images/fabercatel-red.jpg"
     },
     {
         "id": "4009",
@@ -69,7 +69,7 @@
         "name": "أستيكة فابر كاستيل تركى أصلى حجم صغير لون أزرق",
         "desc": "أستيكة فابر كاستيل تركى أصلى حجم صغير لون أزرق",
         "price": 12,
-        "img": "./images/fabercatel-blue.jpg"
+        "img": "https://raw.githubusercontent.com/3almsimsim/store/main/back-to-school/eraser/images/fabercatel-blue.jpg"
     },
     {
         "id": "4010",
@@ -77,7 +77,7 @@
         "name": "أستيكة ديلى حجم صغير لون اسود",
         "desc": "أستيكة ديلى حجم صغير لون اسود",
         "price": 15,
-        "img": "./images/deli-h006.jpg"
+        "img": "https://raw.githubusercontent.com/3almsimsim/store/main/back-to-school/eraser/images/deli-h006.jpg"
     },
     {
         "id": "4011",
@@ -85,7 +85,7 @@
         "name": "أستيكة قلم تبديل",
         "desc": "استيكة قلم تبديل",
         "price": 8,
-        "img": "./images/eraser-pen.jpg"
+        "img": "https://raw.githubusercontent.com/3almsimsim/store/main/back-to-school/eraser/images/eraser-pen.jpg"
     },
     {
         "id": "4012",
@@ -93,31 +93,135 @@
         "name": "أستيكة شكل صباع روج",
         "desc": "استيكة شكل صباع روج",
         "price": 8,
-        "img": "./images/eraser-lipStick.jpg"
+        "img": "https://raw.githubusercontent.com/3almsimsim/store/main/back-to-school/eraser/images/eraser-lipStick.jpg"
     },
     {
-        "id": "4012",
+        "id": "4013",
         "section": "eraser",
         "name": "أستيكة دومز أصلى صناعة الهند",
         "desc": "أستيكة دومز أصلى صناعة الهند",
         "price": 15,
-        "img": "./images/x1-black.jpg"
+        "img": "https://raw.githubusercontent.com/3almsimsim/store/main/back-to-school/eraser/images/x1-black.jpg"
     },
     {
-        "id": "4012",
+        "id": "4014",
         "section": "eraser",
         "name": "أستيكة دومز أصلى صناعة الهند",
         "desc": "أستيكة دومز أصلى صناعة الهند",
         "price": 5,
-        "img": "./images/x1-white.jpg"
+        "img": "https://raw.githubusercontent.com/3almsimsim/store/main/back-to-school/eraser/images/x1-white.jpg"
     },
     {
-        "id": "4012",
+        "id": "4015",
         "section": "eraser",
         "name": "أستيكة دومز أصلى صناعة الهند",
         "desc": "أستيكة دومز أصلى صناعة الهند",
         "price": 15,
-        "img": "./images/MG-Roses.jpg"
+        "img": "https://raw.githubusercontent.com/3almsimsim/store/main/back-to-school/eraser/images/MG-Roses.jpg"
+    },
+    {
+        "id": "4016",
+        "section": "eraser",
+        "name": "أستيكة مجسمة أشكال",
+        "desc": "أستيكة مجسمة أشكال",
+        "price": 5,
+        "img": "https://raw.githubusercontent.com/3almsimsim/store/main/back-to-school/eraser/images/eraser-ktkot.jpg"
+    },
+    {
+        "id": "4017",
+        "section": "eraser",
+        "name": "أستيكة مجسمة أشكال",
+        "desc": "أستيكة مجسمة أشكال",
+        "price": 5,
+        "img": "https://raw.githubusercontent.com/3almsimsim/store/main/back-to-school/eraser/images/eraser-lion.jpg"
+    },
+      {
+          "id": "4018",
+        "section": "eraser",
+        "name": "أستيكة مجسمة أشكال",
+        "desc": "أستيكة مجسمة أشكال",
+        "price": 5,
+        "img": "https://raw.githubusercontent.com/3almsimsim/store/main/back-to-school/eraser/images/eraser-mairMaid.jpg"
+    },
+      {
+        "id": "4019",
+        "section": "eraser",
+        "name": "أستيكة مجسمة أشكال",
+        "desc": "أستيكة مجسمة أشكال",
+        "price": 5,
+        "img": "https://raw.githubusercontent.com/3almsimsim/store/main/back-to-school/eraser/images/eraser-owel.jpg"
+    },
+      {
+        "id": "4020",
+        "section": "eraser",
+        "name": "أستيكة مجسمة أشكال",
+        "desc": "أستيكة مجسمة أشكال",
+        "price": 5,
+        "img": "https://raw.githubusercontent.com/3almsimsim/store/main/back-to-school/eraser/images/eraser-spaceman.jpg"
+    },
+      {
+        "id": "4021",
+        "section": "eraser",
+        "name": "أستيكة مجسمة أشكال",
+        "desc": "أستيكة مجسمة أشكال",
+        "price": 5,
+        "img": "https://raw.githubusercontent.com/3almsimsim/store/main/back-to-school/eraser/images/eraser-unicorn.jpg"
+    },
+      {
+        "id": "4022",
+        "section": "eraser",
+        "name": "أستيكة مجسمة أشكال",
+        "desc": "أستيكة مجسمة أشكال",
+        "price": 5,
+        "img": "https://raw.githubusercontent.com/3almsimsim/store/main/back-to-school/eraser/images/eraser-banda.jpg"
+    },
+      {
+        "id": "4023",
+        "section": "eraser",
+        "name": "أستيكة مجسمة أشكال",
+        "desc": "أستيكة مجسمة أشكال",
+        "price": 5,
+        "img": "https://raw.githubusercontent.com/3almsimsim/store/main/back-to-school/eraser/images/eraser-bird.jpg"
+    },
+      {
+        "id": "4024",
+        "section": "eraser",
+        "name": "أستيكة مجسمة أشكال",
+        "desc": "أستيكة مجسمة أشكال",
+        "price": 5,
+        "img": "https://raw.githubusercontent.com/3almsimsim/store/main/back-to-school/eraser/images/eraser-castell.jpg"
+    },
+      {
+        "id": "4025",
+        "section": "eraser",
+        "name": "أستيكة مجسمة أشكال",
+        "desc": "أستيكة مجسمة أشكال",
+        "price": 5,
+        "img": "https://raw.githubusercontent.com/3almsimsim/store/main/back-to-school/eraser/images/eraser-doll.jpg"
+    },
+      {
+        "id": "4026",
+        "section": "eraser",
+        "name": "أستيكة مجسمة أشكال",
+        "desc": "أستيكة مجسمة أشكال",
+        "price": 5,
+        "img": "https://raw.githubusercontent.com/3almsimsim/store/main/back-to-school/eraser/images/eraser-donuts.jpg"
+    },
+      {
+        "id": "4027",
+        "section": "eraser",
+        "name": "أستيكة مجسمة أشكال",
+        "desc": "أستيكة مجسمة أشكال",
+        "price":15,
+        "img": "https://raw.githubusercontent.com/3almsimsim/store/main/back-to-school/eraser/images/eraser-iceCream.jpg"
+    },
+      {
+        "id": "4028",
+        "section": "eraser",
+        "name": "أستيكة مجسمة أشكال",
+        "desc": "أستيكة مجسمة أشكال",
+        "price":20,
+        "img": "https://raw.githubusercontent.com/3almsimsim/store/main/back-to-school/eraser/images/eraser-banana.jpg"
     }
     
     
