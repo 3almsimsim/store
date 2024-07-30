@@ -109,13 +109,13 @@
         "name": "أستيكة دومز أصلى صناعة الهند",
         "desc": "أستيكة دومز أصلى صناعة الهند",
         "price": 5,
-        "img": "https://raw.githubusercontent.com/3almsimsim/store/main/back-to-school/eraser/images/X1-white.jpg"
+        "img": "https://raw.githubusercontent.com/3almsimsim/store/main/back-to-school/eraser/images/x1-white.jpg"
     },
     {
         "id": "4015",
         "section": "eraser",
-        "name": "أستيكة دومز أصلى صناعة الهند",
-        "desc": "أستيكة دومز أصلى صناعة الهند",
+        "name":"M&G Eraser",
+        "desc": "M&G Eraser",
         "price": 15,
         "img": "https://raw.githubusercontent.com/3almsimsim/store/main/back-to-school/eraser/images/MG-Roses.jpg"
     },
