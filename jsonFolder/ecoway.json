@@ -5,7 +5,7 @@
         "name": "فوطة الدهون دابل فيس",
         "desc": "فوطة الدهون دابل فيس وجه خشن ينظف ووجه ناعم يلمع بديلة للمنظفات الكيماوية",
         "price": 385,
-        "img": "./images/ecoway-doubleface.jpg"
+        "img": "https://raw.githubusercontent.com/3almsimsim/store/main/ecoway/images/ecoway-doubleface.jpg"
     },
     {
         "id": "20002",
@@ -13,7 +13,7 @@
         "name": "فوطة الدهون دابل فيس",
         "desc": "فوطة الدهون دابل فيس وجه خشن ينظف ووجه ناعم يلمع بديلة للمنظفات الكيماوية",
         "price": 385,
-        "img": "./images/ecoway-doublefaceOrange.jpg"
+        "img": "https://raw.githubusercontent.com/3almsimsim/store/main/ecoway/images/ecoway-doublefaceOrange.jpg"
     },
     {
         "id": "20003",
@@ -21,7 +21,7 @@
         "name": "القرص الموف لإزالة البقع والدهون يفضل للأماكن الصغيرة والأحذية والشنط",
         "desc": "القرص الموف لإزالة البقع والدهون يفضل للأماكن الصغيرة والأحذية والشنط",
         "price": 240,
-        "img": "./images/ecoway-woolSponge.jpg"
+        "img": "https://raw.githubusercontent.com/3almsimsim/store/main/ecoway/images/ecoway-woolSponge.jpg"
     },
     {
         "id": "20004",
@@ -29,7 +29,7 @@
         "name": "القرص الموف لإزالة البقع والدهون يفضل للأماكن الصغيرة والأحذية والشنط",
         "desc": "القرص الموف لإزالة البقع والدهون يفضل للأماكن الصغيرة والأحذية والشنط",
         "price": 240,
-        "img": "./images/ecoway-woolSpongeOrange.jpg"
+        "img": "https://raw.githubusercontent.com/3almsimsim/store/main/ecoway/images/ecoway-woolSpongeOrange.jpg"
     },
     {
         "id": "20005",
@@ -37,7 +37,7 @@
         "name": "القفاز الموف لإزالة البقع والدهون يفضل للأماكن الواسعة والمفروشات",
         "desc": "القفاز الموف لإزالة البقع والدهون يفضل للأماكن الواسعة والمفروشات",
         "price": 240,
-        "img": "./images/ecoway-nanofiberGlove.jpg"
+        "img": "https://raw.githubusercontent.com/3almsimsim/store/main/ecoway/images/ecoway-nanofiberGlove.jpg"
     },
     {
         "id": "20006",
@@ -45,7 +45,7 @@
         "name": "القفاز الموف لإزالة البقع والدهون يفضل للأماكن الواسعة والمفروشات",
         "desc": "القفاز الموف لإزالة البقع والدهون يفضل للأماكن الواسعة والمفروشات",
         "price": 240,
-        "img": "./images/ecoway-nanofiberOrangeGlove.jpg"
+        "img": "https://raw.githubusercontent.com/3almsimsim/store/main/ecoway/images/ecoway-nanofiberOrangeGlove.jpg"
     },
     {
         "id": "20007",
@@ -53,7 +53,7 @@
         "name": "الفوطة الثلاثية لإزالة البقع والدهون لها 6 أوجه وتفضل للمفروشات ودهون الحوائط",
         "desc": "الفوطة الثلاثية لإزالة البقع والدهون لها 6 أوجه وتفضل للمفروشات ودهون الحوائط",
         "price": 385,
-        "img": "./images/ecoway-tripleSide.jpg"
+        "img": "https://raw.githubusercontent.com/3almsimsim/store/main/ecoway/images/ecoway-tripleSide.jpg"
     },
     {
         "id": "20008",
@@ -61,7 +61,7 @@
         "name": "الفوطة الثلاثية لإزالة البقع والدهون لها 6 أوجه وتفضل للمفروشات ودهون الحوائط",
         "desc": "الفوطة الثلاثية لإزالة البقع والدهون لها 6 أوجه وتفضل للمفروشات ودهون الحوائط",
         "price": 385,
-        "img": "./images/ecoway-tripleSideOrange.jpg"
+        "img": "https://raw.githubusercontent.com/3almsimsim/store/main/ecoway/images/ecoway-tripleSideOrange.jpg"
     },
     {
         "id": "20009",
@@ -69,7 +69,7 @@
         "name": "فوطة التراب مايكروفايبر بخاصية الإلكتروستاتيك لامتصاص وجذب الأتربة",
         "desc": "فوطة التراب مايكروفايبر بخاصية الإلكتروستاتيك لامتصاص وجذب الأتربة",
         "price": 240,
-        "img": "./images/ecoway-sweepingTowel.jpg"
+        "img": "https://raw.githubusercontent.com/3almsimsim/store/main/ecoway/images/ecoway-sweepingTowel.jpg"
     },
     {
         "id": "20010",
@@ -77,7 +77,7 @@
         "name": "فوطة التراب مايكروفايبر بخاصية الإلكتروستاتيك لامتصاص وجذب الأتربة",
         "desc": "فوطة التراب مايكروفايبر بخاصية الإلكتروستاتيك لامتصاص وجذب الأتربة",
         "price": 240,
-        "img": "./images/ecoway-sweepingTowelMoove.jpg"
+        "img": "https://raw.githubusercontent.com/3almsimsim/store/main/ecoway/images/ecoway-sweepingTowelMoove.jpg"
     },
     {
         "id": "20011",
@@ -85,7 +85,7 @@
         "name": "فوطة التراب مايكروفايبر بخاصية الإلكتروستاتيك لامتصاص وجذب الأتربة",
         "desc": "فوطة التراب مايكروفايبر بخاصية الإلكتروستاتيك لامتصاص وجذب الأتربة",
         "price": 240,
-        "img": "./images/ecoway-sweepingTowelGreen.jpg"
+        "img": "https://raw.githubusercontent.com/3almsimsim/store/main/ecoway/images/ecoway-sweepingTowelGreen.jpg"
     }
     
 ]
