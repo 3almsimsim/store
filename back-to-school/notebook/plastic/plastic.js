@@ -24,7 +24,7 @@ let buttonsDOM = [];
 class Products {
   async getProducts() {
     try {
-      let result = await fetch("../../../jsonFolder/A4plastic.json");
+      let result = await fetch("../../../jsonFolder/plastic.json");
       let data = await result.json();
       let products = data;
 console.log(products);
