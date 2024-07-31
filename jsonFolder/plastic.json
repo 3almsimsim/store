@@ -1,9 +1,10 @@
 [
     {
-     "id": "2000",
-     "section": "A4",
-     "name": "كشكول طويل مسطر الصفا 60 ورقة",
-     "desc": "كشكول طويل مسطر الصفا 60 ورقة",
-     "price": 25,
-     "img": "https://raw.githubusercontent.com/3almsimsim/store/main/back-to-school/notebook/A4/images/elsafaA4no1.jpg"
+     "id": "2100",
+     "section": "CoilA4",
+     "name": "كشكول طويل سلك مسطر الصفا 80 ورقة",
+     "desc": "كشكول طويل سلك مسطر الصفا 80 ورقة",
+     "price": 38,
+     "img": "https://raw.githubusercontent.com/3almsimsim/store/main/back-to-school/notebook/plastic/images/elsafaA4no1.jpg"
     }
+]
