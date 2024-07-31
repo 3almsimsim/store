@@ -248,6 +248,22 @@
         "desc": "Pony ICT Primary Five 2025 First Term",
         "price": 100,
         "img": "https://raw.githubusercontent.com/3almsimsim/store/main/books/books_images/primary_five/5th-ponyIct.jpg"
+       },
+       {
+        "id": "1232",
+        "section": "primary_five",
+        "name": "كتاب المعاصر ماث الصف الخامس الابتدائى 2025 الترم الأول",
+        "desc": "كتاب المعاصر ماث الصف الخامس الابتدائى 2025 الترم الأول",
+        "price": 245,
+        "img": "https://raw.githubusercontent.com/3almsimsim/store/main/books/books_images/primary_five/5th-mathELS.jpg"
+       }و
+       {
+        "id": "1233",
+        "section": "primary_five",
+        "name": "كتاب المعاصر ساينس الصف الخامس الابتدائى 2025 الترم الأول",
+        "desc": "كتاب المعاصر ساينس الصف الخامس الابتدائى 2025 الترم الأول",
+        "price": 245,
+        "img": "https://raw.githubusercontent.com/3almsimsim/store/main/books/books_images/primary_five/5th-scienceELS.jpg"
        }
     
     
