@@ -8,7 +8,7 @@ const cartOverlay = document.querySelector(".cart-overlay");
 const cartItems = document.querySelector(".quantity");
 const cartTotal = document.querySelector(".total_price");
 const cartContent = document.querySelector(".cartContainer");
-const A4plasticDOM = document.querySelector(".product-box-container");
+const plasticDOM = document.querySelector(".product-box-container");
 const image = document.getElementById("item-img");
 // const btns = document.querySelectorAll('.addTo-cart');
 // test
@@ -54,7 +54,7 @@ class UI {
     let result = "";
     
     products.forEach(product => {
-      if(product.section === "A4plastic){
+      if(product.section === "plastic){
         result += `
      <div class="product-box">
           <a class="product-img" href=""><img src=${product.img} alt="" class="product-img"></a>
@@ -73,7 +73,7 @@ class UI {
           </div>
         </div>
     `;
-    A4plasticDOM.innerHTML = result;
+    plasticDOM.innerHTML = result;
   }
    
     });
