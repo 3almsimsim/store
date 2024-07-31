@@ -341,6 +341,22 @@
            "desc": "Selah EL-Telmeez KG1 Mathematics-Arabic 2025 First Term",
            "price": 105,
            "img": "https://raw.githubusercontent.com/3almsimsim/store/main/books/books_images/kg1/KG1-selah-mathematics-arabic.jpg"
+          },
+       {
+           "id": "1054",
+           "section": "primary_one",
+           "name": "سلاح التلميد رياضيات الصف الأول الإبتدائى2025 الترم الأول",
+           "desc": "سلاح التلميد رياضيات الصف الأول الإبتدائى2025 الترم الأول",
+           "price": 129,
+           "img": "https://raw.githubusercontent.com/3almsimsim/store/main/books/books_images/one_primary/1st-selahMath.jpg"
+          },
+       {
+           "id": "1055",
+           "section": "primary_one",
+           "name": "سلاح التلميد عربى الصف الأول الإبتدائى2025 الترم الأول",
+           "desc": "سلاح التلميد عربى الصف الأول الإبتدائى2025 الترم الأول",
+           "price": 129,
+           "img": "https://raw.githubusercontent.com/3almsimsim/store/main/books/books_images/one_primary/1st-selahِArabic.jpg"
           }
     
    ]
