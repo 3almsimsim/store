@@ -54,7 +54,7 @@ class UI {
     let result = "";
     
     products.forEach(product => {
-      if(product.section === "plastic){
+      if(product.section === "plastic"){
         result += `
      <div class="product-box">
           <a class="product-img" href=""><img src=${product.img} alt="" class="product-img"></a>
