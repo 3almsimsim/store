@@ -8,7 +8,7 @@ const cartOverlay = document.querySelector(".cart-overlay");
 const cartItems = document.querySelector(".quantity");
 const cartTotal = document.querySelector(".total_price");
 const cartContent = document.querySelector(".cartContainer");
-const A4DOM = document.querySelector(".product-box-container");
+const A4plasticDOM = document.querySelector(".product-box-container");
 const image = document.getElementById("item-img");
 // const btns = document.querySelectorAll('.addTo-cart');
 // test
@@ -24,7 +24,7 @@ let buttonsDOM = [];
 class Products {
   async getProducts() {
     try {
-      let result = await fetch("../../../jsonFolder/A4.json");
+      let result = await fetch("../../../jsonFolder/A4plastic.json");
       let data = await result.json();
       let products = data;
 console.log(products);
@@ -73,7 +73,7 @@ class UI {
           </div>
         </div>
     `;
-    A4DOM.innerHTML = result;
+    A4plasticDOM.innerHTML = result;
   }
    
     });
