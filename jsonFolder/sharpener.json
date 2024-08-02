@@ -23,5 +23,13 @@
         "price": 8,
         "img": "https://raw.githubusercontent.com/3almsimsim/store/main/back-to-school/sharpener/images/wooden.jpg"
     }
+    {
+        "id": "4104",
+        "section": "sharpener",
+        "name": "براية قلم رصاص من ديلى",
+        "desc": "براية قلم رصاص من ديلى",
+        "price": 10,
+        "img": "https://raw.githubusercontent.com/3almsimsim/store/main/back-to-school/sharpener/images/deli-06.jpg"
+    }
     
 ]
