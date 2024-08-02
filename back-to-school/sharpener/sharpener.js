@@ -63,7 +63,7 @@ class UI {
 
       //         products.push(product);
 
-      if (product.section === "eraser") {
+      if (product.section === "sharpener") {
         //
         result += `
         <div class="product-box">
