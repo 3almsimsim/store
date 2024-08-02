@@ -14,6 +14,14 @@
         "desc": "براية دومز أصلى هندى شفاف",
         "price": 7,
         "img": "https://raw.githubusercontent.com/3almsimsim/store/main/back-to-school/sharpener/images/doms-crystal.jpg"
+    },
+    {
+        "id": "4103",
+        "section": "sharpener",
+        "name": "خشب عالية الجودة M&G براية",
+        "desc": "خشب عالية الجودة M&G براية",
+        "price": 8,
+        "img": "https://raw.githubusercontent.com/3almsimsim/store/main/back-to-school/sharpener/images/wooden.jpg"
     }
     
 ]
