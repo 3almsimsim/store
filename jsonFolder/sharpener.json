@@ -30,6 +30,14 @@
         "desc": "براية قلم رصاص من ديلى",
         "price": 10,
         "img": "https://raw.githubusercontent.com/3almsimsim/store/main/back-to-school/sharpener/images/deli-06.jpg"
+    },
+    {
+        "id": "4105",
+        "section": "sharpener",
+        "name": "براية قلم رصاص صناعة ألمانى",
+        "desc": "براية قلم رصاص صناعة ألمانى",
+        "price": 10,
+        "img": "https://raw.githubusercontent.com/3almsimsim/store/main/back-to-school/sharpener/images/deli-06.jpg"
     }
     
 ]
