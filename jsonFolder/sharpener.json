@@ -5,7 +5,15 @@
         "name": "براية دومز أصلى هندى ألوان",
         "desc": "براية دومز أصلى هندى ألوان",
         "price": 5,
-        "img": "./images/doms-small.jpg"
+        "img": "https://raw.githubusercontent.com/3almsimsim/store/main/back-to-school/sharpener/images/doms-small.jpg"
+    },
+    {
+        "id": "4101",
+        "section": "sharpener",
+        "name": "براية دومز أصلى هندى شفاف",
+        "desc": "براية دومز أصلى هندى شفاف",
+        "price": 7,
+        "img": "https://raw.githubusercontent.com/3almsimsim/store/main/back-to-school/sharpener/images/doms-crystal.jpg"
     }
     
 ]
