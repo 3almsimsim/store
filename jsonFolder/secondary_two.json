@@ -135,6 +135,14 @@
         "desc": "الإمتحان تطبيقات الرياضيات الصف الثانى الثانوى 2025 الترم الأول",
         "price": 150,
         "img": "https://raw.githubusercontent.com/3almsimsim/store/main/books/books_images/secondary_two/sec2_moassermathTatbiqat.jpg"
+    },
+    {
+        "id": "2018",
+        "section": "secondary_two",
+        "name": "الإمتحان فيزيا شرح للصف الثانى الثانوى 2025",
+        "desc": "الإمتحان فيزيا شرح للصف الثانى الثانوى 2025",
+        "price": 150,
+        "img": "https://raw.githubusercontent.com/3almsimsim/store/main/books/books_images/secondary_two/phisics.jpg"
     }
     
     
