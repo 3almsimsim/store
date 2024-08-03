@@ -1,11 +1,19 @@
 [
     {
-        "id": "4101",
+        "id": "4201",
         "section": "colors",
         "name": "ألوان خشب دومز أصلى صناعة هندى 12 قلم طويل + براية",
         "desc": "ألوان خشب دومز أصلى صناعة هندى 12 قلم طويل + براية",
         "price": 70,
-        "img": "./images/doms-12shadesLong.jpg"
+        "img": "https://raw.githubusercontent.com/3almsimsim/store/main/back-to-school/colors/images/doms-12shadesLong.jpg"
+    },
+    {
+        "id": "4202",
+        "section": "colors",
+        "name": "ألوان خشب دومز أصلى صناعة هندى 12 قلم قصير + براية",
+        "desc": "ألوان خشب دومز أصلى صناعة هندى 12 قلم قصير + براية",
+        "price": 35,
+        "img": "https://raw.githubusercontent.com/3almsimsim/store/main/back-to-school/colors/images/doms-12shadeShort.jpg"
     }
     
 ]
