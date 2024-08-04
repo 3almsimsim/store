@@ -8,7 +8,7 @@ const cartOverlay = document.querySelector(".cart-overlay");
 const cartItems = document.querySelector(".quantity");
 const cartTotal = document.querySelector(".total_price");
 const cartContent = document.querySelector(".cartContainer");
-const colorsDOM = document.querySelector(".product-box-container");
+const geometryDOM = document.querySelector(".product-box-container");
 const cart_form = document.querySelector(".cart_form");
 let item_amount = document.getElementById('item_amount');
 // const sendWhats = document.querySelectorAll('.send-whats');
@@ -26,7 +26,7 @@ let buttonsDOM = [];
 class Products {
   async getProducts() {
     try {
-      let result = await fetch("../../jsonFolder/colors.json");
+      let result = await fetch("../../jsonFolder/geometry-tools.json");
       let data = await result.json();
       let products = data;
 
@@ -63,7 +63,7 @@ class UI {
 
       //         products.push(product);
 
-      if (product.section === "colors") {
+      if (product.section === "geometry") {
         //
         result += `
         <div class="product-box">
@@ -85,7 +85,7 @@ class UI {
         </div>
     `;
 
-    colorsDOM.innerHTML = result;
+    geometryDOM.innerHTML = result;
       }
     });
   }
