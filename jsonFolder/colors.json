@@ -22,6 +22,22 @@
         "desc": "ألوان خشب دومز أصلى صناعة هندى 24 قلم طويل",
         "price": 150,
         "img": "https://raw.githubusercontent.com/3almsimsim/store/main/back-to-school/colors/images/doms-24shadesLong.jpg"
+    },
+    {
+        "id": "4204",
+        "section": "colors",
+        "name": "ألوان خشب بريما 12 لون",
+        "desc": "ألوان خشب بريما 12 لون",
+        "price": 15,
+        "img": "https://raw.githubusercontent.com/3almsimsim/store/main/back-to-school/colors/images/prima-12Short.jpg"
+    },
+    {
+        "id": "4204",
+        "section": "colors",
+        "name": "ألوان خشب بريما 6 لون",
+        "desc": "ألوان خشب بريما 6 لون",
+        "price": 7.5,
+        "img": "https://raw.githubusercontent.com/3almsimsim/store/main/back-to-school/colors/images/prima-6Short.jpg"
     }
     
 ]
