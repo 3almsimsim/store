@@ -46,6 +46,14 @@
         "desc": "كوركتور شريط بطول 3 متر وعرض 5مم",
         "price": 15,
         "img": "https://raw.githubusercontent.com/3almsimsim/store/main/back-to-school/corrector/images/unicorn1-correction-tape.jpg"
+    },
+    {
+        "id": "4406",
+        "section": "corrector",
+        "name": "كوركتور شريط بطول 6 متر وعرض 5مم",
+        "desc": "كوركتور شريط بطول 6 متر وعرض 5مم",
+        "price": 20,
+        "img": "https://raw.githubusercontent.com/3almsimsim/store/main/back-to-school/corrector/images/triangle-correction-tape.jpg"
     }
     
 ]
