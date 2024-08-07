@@ -5,7 +5,23 @@
         "name": "قلم تصحيح متعدد الأغراض وسريع الجفاف",
         "desc": "قلم تصحيح متعدد الأغراض وسريع الجفاف",
         "price": 15,
-        "img": "./images/blue-corrector.jpg"
+        "img": "https://raw.githubusercontent.com/3almsimsim/store/main/back-to-school/corrector/images/blue-corrector.jpg"
+    },
+    {
+        "id": "4402",
+        "section": "corrector",
+        "name": "قلم تصحيح متعدد الأغراض وسريع الجفاف",
+        "desc": "قلم تصحيح متعدد الأغراض وسريع الجفاف",
+        "price": 15,
+        "img": "https://raw.githubusercontent.com/3almsimsim/store/main/back-to-school/corrector/images/blue-corrector1.jpg"
+    },
+    {
+        "id": "4403",
+        "section": "corrector",
+        "name": "قلم تصحيح متعدد الأغراض وسريع الجفاف",
+        "desc": "قلم تصحيح متعدد الأغراض وسريع الجفاف",
+        "price": 15,
+        "img": "https://raw.githubusercontent.com/3almsimsim/store/main/back-to-school/corrector/images/green-corrector.jpg"
     }
     
 ]
