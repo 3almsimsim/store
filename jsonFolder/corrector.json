@@ -22,6 +22,30 @@
         "desc": "قلم تصحيح متعدد الأغراض وسريع الجفاف",
         "price": 15,
         "img": "https://raw.githubusercontent.com/3almsimsim/store/main/back-to-school/corrector/images/green-corrector1.jpg"
+    },
+    {
+        "id": "4404",
+        "section": "corrector",
+        "name": "كوركتور شريط بطول 6 متر وعرض 5مم",
+        "desc": "كوركتور شريط بطول 6 متر وعرض 5مم",
+        "price": 15,
+        "img": "https://raw.githubusercontent.com/3almsimsim/store/main/back-to-school/corrector/images/pet-correction-tape.jpg"
+    },
+    {
+        "id": "4405",
+        "section": "corrector",
+        "name": "كوركتور شريط بطول 3 متر وعرض 5مم",
+        "desc": "كوركتور شريط بطول 3 متر وعرض 5مم",
+        "price": 15,
+        "img": "https://raw.githubusercontent.com/3almsimsim/store/main/back-to-school/corrector/images/unicorn-correction-tape.jpg"
+    },
+    {
+        "id": "4406",
+        "section": "corrector",
+        "name": "كوركتور شريط بطول 3 متر وعرض 5مم",
+        "desc": "كوركتور شريط بطول 3 متر وعرض 5مم",
+        "price": 15,
+        "img": "https://raw.githubusercontent.com/3almsimsim/store/main/back-to-school/corrector/images/unicorn1-correction-tape.jpg"
     }
     
 ]
