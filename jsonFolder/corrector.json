@@ -54,6 +54,22 @@
         "desc": "كوركتور شريط بطول 6 متر وعرض 5مم",
         "price": 20,
         "img": "https://raw.githubusercontent.com/3almsimsim/store/main/back-to-school/corrector/images/triangle-correction-tape.jpg"
+    },
+    {
+        "id": "4408",
+        "section": "corrector",
+        "name": "كوركتور شريط بطول 6 متر وعرض 5مم",
+        "desc": "كوركتور شريط بطول 6 متر وعرض 5مم",
+        "price": 20,
+        "img": "https://raw.githubusercontent.com/3almsimsim/store/main/back-to-school/corrector/images/triangleRed-correction-tape.jpg"
+    },
+    {
+        "id": "4409",
+        "section": "corrector",
+        "name": "كوركتور شريط بطول 6 متر وعرض 5مم",
+        "desc": "كوركتور شريط بطول 6 متر وعرض 5مم",
+        "price": 20,
+        "img": "https://raw.githubusercontent.com/3almsimsim/store/main/back-to-school/corrector/images/triangleGreen-correction-tape.jpg"
     }
     
 ]
