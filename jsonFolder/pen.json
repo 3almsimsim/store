@@ -152,5 +152,14 @@
   "Column5": 52,
   "price": 7,
   "img": "https://raw.githubusercontent.com/3almsimsim/store/main/back-to-school/pen/images/thumbnails/pensan-triball.jpg"
+ },
+ {
+  "id": "218",
+  "section": "pen",
+  "name": "قلم جاف متعدد 10 ألوان",
+  "desc": "قلم جاف متعدد 10 ألوان",
+  "Column5": 52,
+  "price": 20,
+  "img": "https://raw.githubusercontent.com/3almsimsim/store/main/back-to-school/pen/images/thumbnails/multicolor-10-kuroml.jpg"
  }
 ]
