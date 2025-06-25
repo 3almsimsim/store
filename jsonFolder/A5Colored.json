@@ -118,5 +118,13 @@
     "desc": "كشكول ملون 60 ورقة 9 سطر",
     "price": 25,
     "img": "https://raw.githubusercontent.com/3almsimsim/store/refs/heads/main/back-to-school/notebook/coloredNotebook/images/15.jpg"
+  },
+  {
+    "id": "3014",
+    "section": "A5Colored",
+    "name": "كشكول ملون 60 ورقة إنجليزى",
+    "desc": "كشكول ملون 60 ورقة إنجليزى",
+    "price": 25,
+    "img": "https://raw.githubusercontent.com/3almsimsim/store/refs/heads/main/back-to-school/notebook/coloredNotebook/images/16.jpg"
   }
 ]
