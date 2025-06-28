@@ -38,6 +38,13 @@
         "desc": "ألوان خشب بريما 6 لون",
         "price": 7.5,
         "img": "https://raw.githubusercontent.com/3almsimsim/store/main/back-to-school/colors/images/prima-6Short.jpg"
+    },
+    {
+        "id": "4206",
+        "section": "colors",
+        "name": "ألوان خشب نتراج أصلى صناعة هندى 12 قلم طويل",
+        "desc": "ألوان خشب نتراج أصلى صناعة هندى 12 قلم طويل",
+        "price": 70,
+        "img": "https://raw.githubusercontent.com/3almsimsim/store/main/back-to-school/colors/images/natrajColorsLong.jpg"
     }
-    
 ]
