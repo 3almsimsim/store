@@ -27,7 +27,7 @@ let buttonsDOM = [];
 class Products {
   async getProducts() {
     try {
-      let result = await fetch("../jsonFolder/secondary_three.json");
+      let result = await fetch("../jsonFolder/taasis.json");
       let data = await result.json();
       let products = data;
       console.log(products);
@@ -57,7 +57,7 @@ class UI {
     let result = "";
 
     products.forEach((product) => {
-      if (product.section === "secondary_three") {
+      if (product.section === "taasis") {
         result += `
      <div class="week-prod product-box">
           <a class="product-img" href=""><img src=${product.img} alt="" class="product-img"></a>
