@@ -6,5 +6,13 @@
     "desc": "كتاب نور البيان لتعليم القراءة",
     "price": 25,
     "img": "https://raw.githubusercontent.com/3almsimsim/store/refs/heads/main/books/books_images/taasis/nour_elbyan.jpg"
+  },
+  {
+    "id": "5002",
+    "section": "taasis",
+    "name": "معلم القراءة الجزء الأول",
+    "desc": "معلم القراءة الجزء الأول",
+    "price": 10,
+    "img": "https://raw.githubusercontent.com/3almsimsim/store/refs/heads/main/books/books_images/taasis/moalem.jpg"
   }
 ]
