@@ -14,5 +14,21 @@
     "desc": "معلم القراءة الجزء الأول",
     "price": 10,
     "img": "https://raw.githubusercontent.com/3almsimsim/store/refs/heads/main/books/books_images/taasis/moalem.jpg"
+  },
+  {
+    "id": "5003",
+    "section": "taasis",
+    "name": "Top Phonics Short Vowel",
+    "desc": "Top Phonics Short Vowel",
+    "price": 70,
+    "img": "https://raw.githubusercontent.com/3almsimsim/store/refs/heads/main/books/books_images/taasis/topPhonics_Short.jpg"
+  },
+  {
+    "id": "5004",
+    "section": "taasis",
+    "name": "كتاب الأبرار فى النجو للصفوف الأولى",
+    "desc": "كتاب الأبرار فى النجو للصفوف الأولى",
+    "price": 75,
+    "img": "https://raw.githubusercontent.com/3almsimsim/store/refs/heads/main/books/books_images/taasis/abrar.jpg"
   }
 ]
