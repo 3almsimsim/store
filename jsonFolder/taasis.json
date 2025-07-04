@@ -40,4 +40,13 @@
     "price": 150,
     "img": "https://raw.githubusercontent.com/3almsimsim/store/refs/heads/main/books/books_images/taasis/taasis_MoalmPart1.jpg"
   }
+  ,
+  {
+    "id": "5006",
+    "section": "taasis",
+    "name": "The Best Start Long Vowel",
+    "desc": "The Best Start Long Vowel",
+    "price": 75,
+    "img": "https://raw.githubusercontent.com/3almsimsim/store/refs/heads/main/books/books_images/taasis/bestStart_LongVowel.jpg"
+  }
 ]
