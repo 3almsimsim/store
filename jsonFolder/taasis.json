@@ -31,4 +31,13 @@
     "price": 75,
     "img": "https://raw.githubusercontent.com/3almsimsim/store/refs/heads/main/books/books_images/taasis/abrar.jpg"
   }
+  ,
+  {
+    "id": "5005",
+    "section": "taasis",
+    "name": "كتاب التأسيس السليم معلم القراءة و الكتابة الجزء الأول",
+    "desc": "كتاب التأسيس السليم معلم القراءة و الكتابة الجزء الأول",
+    "price": 150,
+    "img": "https://raw.githubusercontent.com/3almsimsim/store/refs/heads/main/books/books_images/taasis/taasis_MoalmPart1.jpg"
+  }
 ]
