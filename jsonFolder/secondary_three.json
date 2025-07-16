@@ -2,71 +2,63 @@
     {
         "id": "1701",
         "section": "secondary_three",
-        "name": "الإمتحان فيزيا شرح للصف الثالث الثانوى 2025",
-        "desc": "الإمتحان فيزيا شرح للصف الثالث الثانوى 2025",
-        "price": 165,
-        "img": "https://raw.githubusercontent.com/3almsimsim/store/main/books/books_images/secondary_three/3sec_phisicsExplain.jpg"
+        "name": "الإمتحان فيزيا شرح للصف الثالث الثانوى 2026",
+        "desc": "الإمتحان فيزيا شرح للصف الثالث الثانوى 2026",
+        "price": 210,
+        "img": "https://raw.githubusercontent.com/3almsimsim/store/main/books/books_images/secondary_three/phisics_3Sec.jpg"
     },
     {
         "id": "1702",
         "section": "secondary_three",
-        "name": "الإمتحان جغرافيا شرح للصف الثالث الثانوى 2025",
-        "desc": "الإمتحان جغرافيا شرح للصف الثالث الثانوى 2025",
-        "price": 160,
-        "img": "https://raw.githubusercontent.com/3almsimsim/store/main/books/books_images/secondary_three/3sec_geographyExplain.jpg"
+        "name": "الإمتحان تاريخ شرح للصف الثالث الثانوى 2025",
+        "desc": "الإمتحان تاريخ شرح للصف الثالث الثانوى 2025",
+        "price": 240,
+        "img": "https://raw.githubusercontent.com/3almsimsim/store/main/books/books_images/secondary_three/history2026_3Sec.jpg"
     },
     {
         "id": "1703",
         "section": "secondary_three",
-        "name": "الإمتحان أحياء شرح للصف الثالث الثانوى 2025",
-        "desc": "الإمتحان أحياء شرح للصف الثالث الثانوى 2025",
-        "price": 150,
-        "img": "https://raw.githubusercontent.com/3almsimsim/store/main/books/books_images/secondary_three/3sec_biologyExplain.jpg"
+        "name": "الإمتحان أحياء شرح للصف الثالث الثانوى 2026",
+        "desc": "الإمتحان أحياء شرح للصف الثالث الثانوى 2026",
+        "price": 195,
+        "img": "https://raw.githubusercontent.com/3almsimsim/store/main/books/books_images/secondary_three/biology2026-3Sec.jpg"
     },
     {
         "id": "1704",
         "section": "secondary_three",
-        "name": "الإمتحان أحياء كتاب الأسئلة والمسائل للصف الثالث الثانوى 2025",
-        "desc": "الإمتحان أحياء كتاب الأسئلة والمسائل للصف الثالث الثانوى 2025",
-        "price": 205,
-        "img": "https://raw.githubusercontent.com/3almsimsim/store/main/books/books_images/secondary_three/3sec_biologyQ.jpg"
+        "name": "الإمتحان أحياء كتاب الأسئلة والمسائل للصف الثالث الثانوى 2026",
+        "desc": "الإمتحان أحياء كتاب الأسئلة والمسائل للصف الثالث الثانوى 2026",
+        "price": 275,
+        "img": "https://raw.githubusercontent.com/3almsimsim/store/main/books/books_images/secondary_three/biologyQ2026-3Sec.jpg"
     },
     {
         "id": "1705",
         "section": "secondary_three",
-        "name": "الإمتحان فيزيا كتاب الأسئلة والمسائل للصف الثالث الثانوى 2025",
-        "desc": "الإمتحان فيزيا كتاب الأسئلة والمسائل للصف الثالث الثانوى 2025",
-        "price": 235,
-        "img": "https://raw.githubusercontent.com/3almsimsim/store/main/books/books_images/secondary_three/3sec_phisicsQ.jpg"
+        "name": "الإمتحان فيزيا كتاب الأسئلة والمسائل للصف الثالث الثانوى 2026",
+        "desc": "الإمتحان فيزيا كتاب الأسئلة والمسائل للصف الثالث الثانوى 2026",
+        "price": 289,
+        "img": "https://raw.githubusercontent.com/3almsimsim/store/main/books/books_images/secondary_three/phisicsQ_3Sec.jpg"
     },
     {
         "id": "1706",
         "section": "secondary_three",
-        "name": "الإمتحان جيولوجيا للصف الثالث الثانوى 2025",
-        "desc": "الإمتحان جيولوجيا للصف الثالث الثانوى 2025",
-        "price": 240,
-        "img": "https://raw.githubusercontent.com/3almsimsim/store/main/books/books_images/secondary_three/3sec_giology.jpg"
-    },
-    {
-        "id": "1707",
-        "section": "secondary_three",
-        "name": "الإمتحان كيميا للصف الثالث الثانوى 2025",
-        "desc": "الإمتحان كيميا للصف الثالث الثانوى 2025",
-        "price": 230,
-        "img": "https://raw.githubusercontent.com/3almsimsim/store/main/books/books_images/secondary_three/3sec_chemistry.jpg"
+        "name": "الإمتحان كيميا شرح للصف الثالث الثانوى 2026",
+        "desc": "الإمتحان كيميا شرح للصف الثالث الثانوى 2026",
+        "price": 265,
+        "img": "https://raw.githubusercontent.com/3almsimsim/store/main/books/books_images/secondary_three/chemistry2026_3sec.jpg"
     }
     ,
     {
-        "id": "1708",
-        "section": "secondary_three",
+        "id": "1707",
+        "section": "secondary_three1",
         "name": "الإمتحان عربى للصف الثالث الثانوى 2025",
         "desc": "الإمتحان عربى للصف الثالث الثانوى 2025",
         "price": 205,
         "img": "https://raw.githubusercontent.com/3almsimsim/store/main/books/books_images/secondary_three/3sec_Arabic.jpg"
     },
     {
-        "id": "1709",
-        "section": "secondary_three",
+        "id": "1708",
+        "section": "secondary_three1",
         "name": "برافو فرنساوى للصف الثالث الثانوى 2025",
         "desc": "برافو فرنساوى للصف الثالث الثانوى 2025",
         "price": 220,
