@@ -11,6 +11,7 @@ const cartContent = document.querySelector(".cartContainer");
 const productsDOM = document.querySelector(".week-section-container");
 const twoPrepDOM = document.querySelector('.twoPrep-container')
 const threePrepDOM = document.querySelector('.threePrep-container')
+const onePrepDOM = document.querySelector('.threePrep-container')
 const fiveDOM = document.querySelector('.five-container')
 const image = document.getElementById("image");
 // const btns = document.querySelectorAll('.addTo-cart');
@@ -27,7 +28,7 @@ let buttonsDOM = [];
 class Products {
   async getProducts() {
     try {
-      let result = await fetch("../jsonFolder/preparatory-three.json");
+      let result = await fetch("../jsonFolder/preparatory-one.json");
       let data = await result.json();
       let products = data;
 console.log(products);
@@ -57,7 +58,7 @@ class UI {
     let result = "";
     
     products.forEach(product => {
-      if(product.section === "prep_three"){
+      if(product.section === "prep_one"){
         result += `
      <div class="week-prod product-box">
           <a class="product-img" href=""><img src=${product.img} alt="" class="product-img"></a>
@@ -75,7 +76,7 @@ class UI {
           </div>
         </div>
     `;
-    threePrepDOM.innerHTML = result;
+    onePrepDOM.innerHTML = result;
   }
         
      });
