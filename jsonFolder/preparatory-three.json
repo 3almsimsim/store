@@ -35,18 +35,18 @@
     {
      "id": "1405",
      "section": "prep_three",
-     "name": "أضواء رياضيات الصف الثالث الإعدادى 2025 الترم الأول",
-     "desc": "اضواء رياضيات الصف الثالث الإعدادى 2025 الترم الأول",
-     "price": 125,
-     "img": "https://raw.githubusercontent.com/3almsimsim/store/main/books/books_images/prep-three/3rd-prepAdwaa-MathArabic.jpg"
+     "name": "أضواء رياضيات الصف الثالث الإعدادى 2026 الترم الأول",
+     "desc": "اضواء رياضيات الصف الثالث الإعدادى 2026 الترم الأول",
+     "price": 145,
+     "img": "https://raw.githubusercontent.com/3almsimsim/store/main/books/books_images/prep-three/adwaa-math-3prep.jpg"
     },
     {
      "id": "1406",
      "section": "prep_three",
-     "name": "أضواء عربى الصف الثالث الإعدادى 2025 الترم الأول",
-     "desc": "اضواء عربى الصف الثالث الإعدادى 2025 الترم الأول",
-     "price": 150,
-     "img": "https://raw.githubusercontent.com/3almsimsim/store/main/books/books_images/prep-three/3rd-prepAdwaaArabic.jpg"
+     "name": "أضواء عربى الصف الثالث الإعدادى 2026 الترم الأول",
+     "desc": "اضواء عربى الصف الثالث الإعدادى 2026 الترم الأول",
+     "price": 175,
+     "img": "https://raw.githubusercontent.com/3almsimsim/store/main/books/books_images/prep-three/adwaa-arabic-3prep.jpg"
     },
     {
      "id": "1407",
@@ -59,18 +59,18 @@
     {
      "id": "1408",
      "section": "prep_three",
-     "name": "أضواء دراسات الصف الثالث الإعدادى 2025 الترم الأول",
-     "desc": "اضواء دراسات الصف الثالث الإعدادى 2025 الترم الأول",
-     "price": 130,
-     "img": "https://raw.githubusercontent.com/3almsimsim/store/main/books/books_images/prep-three/3rd-prepAdwaaDrasat.jpg"
+     "name": "أضواء دراسات الصف الثالث الإعدادى 2026 الترم الأول",
+     "desc": "اضواء دراسات الصف الثالث الإعدادى 2026 الترم الأول",
+     "price": 149,
+     "img": "https://raw.githubusercontent.com/3almsimsim/store/main/books/books_images/prep-three/adwaa-drasat-3prep.jpg"
     },
     {
      "id": "1408",
      "section": "prep_three",
-     "name": "أضواء علوم الصف الثالث الإعدادى 2025 الترم الأول",
-     "desc": "اضواء علوم الصف الثالث الإعدادى 2025 الترم الأول",
-     "price": 130,
-     "img": "https://raw.githubusercontent.com/3almsimsim/store/main/books/books_images/prep-three/3rd-prepAdwaaOlom.jpg"
+     "name": "أضواء علوم الصف الثالث الإعدادى 2026 الترم الأول",
+     "desc": "اضواء علوم الصف الثالث الإعدادى 2026 الترم الأول",
+     "price": 149,
+     "img": "https://raw.githubusercontent.com/3almsimsim/store/main/books/books_images/prep-three/adwaa-science-3prep.jpg"
     },
     {
      "id": "1409",
