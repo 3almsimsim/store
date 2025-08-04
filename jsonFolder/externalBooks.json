@@ -130,18 +130,18 @@
     {
      "id": "1016",
      "section": "primary_one",
-     "name": "KatrElnda 1st Primary One Arabic 2025",
-     "desc": "KatrElnda 1st Primary One Arabic 2025",
-     "price": 79,
-     "img": "https://raw.githubusercontent.com/3almsimsim/store/main/books/books_images/one_primary/1st-KatrElnda-Arabic.jpg"
+     "name": "قطر الندى عربى أولى ابتدائى 2026",
+     "desc": "قطر الندى عربى أولى ابتدائى 2026",
+     "price": 99,
+     "img": "https://raw.githubusercontent.com/3almsimsim/store/main/books/books_images/one_primary/katr1stPrimArabic.jpg"
     },
     {
      "id": "1017",
      "section": "primary_one",
-     "name": "ALADWAA 1st Primary One Arabic 2025",
-     "desc": "ALADWAA 1st Primary One Arabic 2025",
-     "price": 125,
-     "img": "https://raw.githubusercontent.com/3almsimsim/store/main/books/books_images/one_primary/1st-Adwaa-Arabic.jpg"
+     "name": "الأضواء عربى أولى ابتدائى 2026",
+     "desc": "الأضواء عربى أولى ابتدائى 2026",
+     "price": 159,
+     "img": "https://raw.githubusercontent.com/3almsimsim/store/main/books/books_images/one_primary/adwaa1stPrimArabic.jpg"
     },
     {
      "id": "1018",
@@ -353,11 +353,12 @@
        {
            "id": "1055",
            "section": "primary_one",
-           "name": "سلاح التلميد عربى الصف الأول الإبتدائى2025 الترم الأول",
-           "desc": "سلاح التلميد عربى الصف الأول الإبتدائى2025 الترم الأول",
+           "name": "سلاح التلميد عربى الصف الأول الإبتدائى2026 الترم الأول",
+           "desc": "سلاح التلميد عربى الصف الأول الإبتدائى2026 الترم الأول",
            "price": 129,
-           "img": "https://raw.githubusercontent.com/3almsimsim/store/main/books/books_images/one_primary/1st-selahِArabic.jpg"
+           "img": "https://raw.githubusercontent.com/3almsimsim/store/main/books/books_images/one_primary/slah1stPrimArabic.jpg"
           }
     
    ]
    
+
