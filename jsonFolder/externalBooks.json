@@ -122,24 +122,24 @@
     {
      "id": "1015",
      "section": "primary_one",
-     "name": "التأسيس السليم عربى أولى ابتدائى 2026",
-     "desc": "التأسيس السليم عربى أولى ابتدائى 2026",
+     "name": "التأسيس السليم عربى أولى ابتدائى 2026 الترم الأول",
+     "desc": "التأسيس السليم عربى أولى ابتدائى 2026 الترم الأول",
      "price": 155,
      "img": "https://raw.githubusercontent.com/3almsimsim/store/main/books/books_images/one_primary/1st-Taasis-Arabic.jpg"
     },
     {
      "id": "1016",
      "section": "primary_one",
-     "name": "قطر الندى عربى أولى ابتدائى 2026",
-     "desc": "قطر الندى عربى أولى ابتدائى 2026",
+     "name": "قطر الندى عربى أولى ابتدائى 2026 الترم الأول",
+     "desc": "قطر الندى عربى أولى ابتدائى 2026 الترم الأول",
      "price": 99,
      "img": "https://raw.githubusercontent.com/3almsimsim/store/main/books/books_images/one_primary/katr1stPrimArabic.jpg"
     },
     {
      "id": "1017",
      "section": "primary_one",
-     "name": "الأضواء عربى أولى ابتدائى 2026",
-     "desc": "الأضواء عربى أولى ابتدائى 2026",
+     "name": "الأضواء عربى أولى ابتدائى 2026 الترم الأول",
+     "desc": "الأضواء عربى أولى ابتدائى 2026 الترم الأول",
      "price": 159,
      "img": "https://raw.githubusercontent.com/3almsimsim/store/main/books/books_images/one_primary/adwaa1stPrimArabic.jpg"
     },
@@ -397,10 +397,19 @@
            "desc": "المعاصر أولى ابتدائى ديسكفر 2026 الترم الأول",
            "price": 199,
            "img": "https://raw.githubusercontent.com/3almsimsim/store/main/books/books_images/one_primary/discover1 1st_prep2026.jpg"
+          },
+    {
+           "id": "1061",
+           "section": "primary_one",
+           "name": "سلاح التلميذ أولى ابتدائى دين 2026 الترم الأول",
+           "desc": "سلاح التلميذ أولى ابتدائى دين 2026 الترم الأول",
+           "price": 100,
+           "img": "https://raw.githubusercontent.com/3almsimsim/store/main/books/books_images/one_primary/slah1stPrimDin.jpg"
           }
     
    ]
    
+
 
 
 
