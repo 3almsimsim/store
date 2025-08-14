@@ -4,7 +4,7 @@
         "section": "colors",
         "name": "ألوان خشب دومز أصلى صناعة هندى 12 قلم طويل + براية",
         "desc": "ألوان خشب دومز أصلى صناعة هندى 12 قلم طويل + براية",
-        "price": 70,
+        "price": 69,
         "img": "https://raw.githubusercontent.com/3almsimsim/store/main/back-to-school/colors/images/doms-12shadesLong.jpg"
     },
     {
@@ -28,7 +28,7 @@
         "section": "colors",
         "name": "ألوان خشب بريما 12 لون",
         "desc": "ألوان خشب بريما 12 لون",
-        "price": 15,
+        "price": 14,
         "img": "https://raw.githubusercontent.com/3almsimsim/store/main/back-to-school/colors/images/prima-12Short.jpg"
     },
     {
@@ -36,7 +36,7 @@
         "section": "colors",
         "name": "ألوان خشب بريما 6 لون",
         "desc": "ألوان خشب بريما 6 لون",
-        "price": 7.5,
+        "price": 7,
         "img": "https://raw.githubusercontent.com/3almsimsim/store/main/back-to-school/colors/images/prima-6Short.jpg"
     },
     {
@@ -44,7 +44,48 @@
         "section": "colors",
         "name": "ألوان خشب نتراج أصلى صناعة هندى 12 قلم طويل",
         "desc": "ألوان خشب نتراج أصلى صناعة هندى 12 قلم طويل",
-        "price": 70,
+        "price": 69,
         "img": "https://raw.githubusercontent.com/3almsimsim/store/main/back-to-school/colors/images/natrajColorsLong.jpg"
+    },
+    {
+        "id": "4207",
+        "section": "colors",
+        "name": "ألوان باستل 12 لون",
+        "desc": "ألوان باستل 12 لون",
+        "price": 22,
+        "img": "https://raw.githubusercontent.com/3almsimsim/store/main/back-to-school/colors/images/pastel12Yellow.jpg"
+    },
+    {
+        "id": "4208",
+        "section": "colors",
+        "name": "ألوان روتو فلوماستر 6 لون",
+        "desc": "ألوان روتو فلوماستر 6 لون",
+        "price": 15,
+        "img": "https://raw.githubusercontent.com/3almsimsim/store/main/back-to-school/colors/images/roto6Colors.jpg"
+    },
+    {
+        "id": "4209",
+        "section": "colors",
+        "name": "ألوان روتو فلوماستر 12 لون",
+        "desc": "ألوان روتو فلوماستر 12 لون",
+        "price": 30,
+        "img": "https://raw.githubusercontent.com/3almsimsim/store/main/back-to-school/colors/images/roto12Colors.jpg"
+    },
+    {
+        "id": "4210",
+        "section": "colors",
+        "name": "ألوان باستل 24 لون",
+        "desc": "ألوان باستل 25 لون",
+        "price": 45,
+        "img": "https://raw.githubusercontent.com/3almsimsim/store/main/back-to-school/colors/images/pastel24Yellow.jpg"
+    },
+    {
+        "id": "4211",
+        "section": "colors",
+        "name": "ألوان خشب دومز صينى 24 لون",
+        "desc": "ألوان خشب دومز صينى 24 لون",
+        "price": 78,
+        "img": "https://raw.githubusercontent.com/3almsimsim/store/main/back-to-school/colors/images/doms24colorsChina.jpg"
     }
 ]
+
