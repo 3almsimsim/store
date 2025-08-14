@@ -86,6 +86,31 @@
         "desc": "ألوان خشب دومز صينى 24 لون",
         "price": 78,
         "img": "https://raw.githubusercontent.com/3almsimsim/store/main/back-to-school/colors/images/doms24colorsChina.jpg"
+    },
+    {
+        "id": "4212",
+        "section": "colors",
+        "name": "ألوان باستل 12 لون",
+        "desc": "ألوان باستل 12 لون",
+        "price": 22,
+        "img": "https://raw.githubusercontent.com/3almsimsim/store/main/back-to-school/colors/images/pastel12Green.jpg"
+    },
+    {
+        "id": "4213",
+        "section": "colors",
+        "name": "ألوان باستل 18 لون",
+        "desc": "ألوان باستل 18 لون",
+        "price": 35,
+        "img": "https://raw.githubusercontent.com/3almsimsim/store/main/back-to-school/colors/images/pastel18Green.jpg"
+    },
+    {
+        "id": "4214",
+        "section": "colors",
+        "name": "ألوان باستل 8 لون",
+        "desc": "ألوان باستل 8 لون",
+        "price": 18,
+        "img": "https://raw.githubusercontent.com/3almsimsim/store/main/back-to-school/colors/images/pastel8Green.jpg"
     }
 ]
+
 
